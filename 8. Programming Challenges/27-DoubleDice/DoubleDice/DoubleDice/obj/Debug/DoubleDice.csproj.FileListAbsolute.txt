@@ -1,0 +1,9 @@
+C:\Temp\DoubleDice\DoubleDice\bin\Debug\DoubleDice.exe.config
+C:\Temp\DoubleDice\DoubleDice\bin\Debug\DoubleDice.exe
+C:\Temp\DoubleDice\DoubleDice\bin\Debug\DoubleDice.pdb
+C:\Temp\DoubleDice\DoubleDice\obj\Debug\DoubleDice.csprojResolveAssemblyReference.cache
+C:\Temp\DoubleDice\DoubleDice\obj\Debug\DoubleDice.FrmDoubleDice.resources
+C:\Temp\DoubleDice\DoubleDice\obj\Debug\DoubleDice.Properties.Resources.resources
+C:\Temp\DoubleDice\DoubleDice\obj\Debug\DoubleDice.csproj.GenerateResource.Cache
+C:\Temp\DoubleDice\DoubleDice\obj\Debug\DoubleDice.exe
+C:\Temp\DoubleDice\DoubleDice\obj\Debug\DoubleDice.pdb

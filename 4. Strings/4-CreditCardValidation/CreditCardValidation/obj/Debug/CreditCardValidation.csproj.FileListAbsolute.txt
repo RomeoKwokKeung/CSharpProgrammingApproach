@@ -1,0 +1,15 @@
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.exe
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.pdb
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\4-CreditCardValidation\CreditCardValidation\bin\Debug\CreditCardValidation.exe
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\4-CreditCardValidation\CreditCardValidation\bin\Debug\CreditCardValidation.pdb
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.FrmCreditCardValidation.resources
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\bin\Debug\CreditCardValidation.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\bin\Debug\CreditCardValidation.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.FrmCreditCardValidation.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\4-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.pdb

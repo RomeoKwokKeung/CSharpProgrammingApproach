@@ -1,0 +1,9 @@
+C:\Temp\GreetingInABox\GreetingInABox\bin\Debug\GreetingInABox.exe.config
+C:\Temp\GreetingInABox\GreetingInABox\bin\Debug\GreetingInABox.exe
+C:\Temp\GreetingInABox\GreetingInABox\bin\Debug\GreetingInABox.pdb
+C:\Temp\GreetingInABox\GreetingInABox\obj\Debug\GreetingInABox.csprojResolveAssemblyReference.cache
+C:\Temp\GreetingInABox\GreetingInABox\obj\Debug\GreetingInABox.FrmGreeting.resources
+C:\Temp\GreetingInABox\GreetingInABox\obj\Debug\GreetingInABox.Properties.Resources.resources
+C:\Temp\GreetingInABox\GreetingInABox\obj\Debug\GreetingInABox.csproj.GenerateResource.Cache
+C:\Temp\GreetingInABox\GreetingInABox\obj\Debug\GreetingInABox.exe
+C:\Temp\GreetingInABox\GreetingInABox\obj\Debug\GreetingInABox.pdb

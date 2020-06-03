@@ -1,0 +1,20 @@
+D:\temp\TheTippingPoint\TheTippingPoint\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.FrmTippingPoint.resources
+D:\temp\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.Properties.Resources.resources
+D:\temp\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.csproj.GenerateResource.Cache
+D:\temp\TheTippingPoint\TheTippingPoint\bin\Debug\TheTippingPoint.exe
+D:\temp\TheTippingPoint\TheTippingPoint\bin\Debug\TheTippingPoint.pdb
+D:\temp\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.exe
+D:\temp\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\bin\Debug\TheTippingPoint.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\bin\Debug\TheTippingPoint.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.FrmTippingPoint.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2011\FinalFour\Problem1\TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\8-TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\8-TippingPoint\C#\TheTippingPoint\TheTippingPoint\obj\Debug\TheTippingPoint.pdb

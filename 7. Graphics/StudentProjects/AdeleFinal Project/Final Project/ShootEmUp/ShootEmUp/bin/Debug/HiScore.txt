@@ -1,0 +1,6 @@
+Adele
+100
+Joe
+20
+Sarah
+50

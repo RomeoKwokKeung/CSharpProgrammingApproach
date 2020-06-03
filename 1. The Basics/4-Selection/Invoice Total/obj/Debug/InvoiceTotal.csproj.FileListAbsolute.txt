@@ -1,0 +1,2 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Invoice Total\obj\Debug\WindowsApplication1.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Invoice Total\obj\Debug\WindowsApplication1.pdb

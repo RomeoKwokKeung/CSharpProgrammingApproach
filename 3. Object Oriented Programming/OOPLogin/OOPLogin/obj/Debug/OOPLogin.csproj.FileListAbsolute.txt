@@ -1,0 +1,54 @@
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe.config
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csprojResolveAssemblyReference.cache
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Form1.resources
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Properties.Resources.resources
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csproj.GenerateResource.Cache
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\bin\Debug\OOPLogin.pdb
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\obj\Debug\OOPLogin.exe
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\obj\Debug\OOPLogin.pdb
+C:\Users\Dlamini.M\Desktop\SE\OOPLogin\OOPLogin\obj\Debug\OOPLogin.About.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.About.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.About.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblems\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\bin\Debug\OOPLogin.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.About.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\SupplementaryProblemsAssignments\SourceCodester\UDEMYdemos\oop_login\OOP Login\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe.config
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\bin\Debug\OOPLogin.exe
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\bin\Debug\OOPLogin.pdb
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.About.resources
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Form1.resources
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.Properties.Resources.resources
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.exe
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOPLogin\OOPLogin\obj\Debug\OOPLogin.pdb

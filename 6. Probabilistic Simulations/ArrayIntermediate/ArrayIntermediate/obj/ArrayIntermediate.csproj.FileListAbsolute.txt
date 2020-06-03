@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\6-Arrays\C#\1-OneDimensional\Intermediate\ArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\6-Arrays\C#\1-OneDimensional\Intermediate\ArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.pdb

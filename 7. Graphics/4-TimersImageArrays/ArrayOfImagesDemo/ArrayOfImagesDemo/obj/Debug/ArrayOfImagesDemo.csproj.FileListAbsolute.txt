@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\ArrayOfImagesDemo\ArrayOfImagesDemo\obj\Debug\ArrayOfImagesDemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\ArrayOfImagesDemo\ArrayOfImagesDemo\obj\Debug\ArrayOfImagesDemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\ArrayOfImagesDemo\ArrayOfImagesDemo\bin\Debug\ArrayOfImagesDemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\ArrayOfImagesDemo\ArrayOfImagesDemo\bin\Debug\ArrayOfImagesDemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\ArrayOfImagesDemo\ArrayOfImagesDemo\obj\Debug\ArrayOfImagesDemo.FrmArrayOfImages.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\ArrayOfImagesDemo\ArrayOfImagesDemo\obj\Debug\ArrayOfImagesDemo.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\ArrayOfImagesDemo\ArrayOfImagesDemo\obj\Debug\ArrayOfImagesDemo.csproj.GenerateResource.Cache

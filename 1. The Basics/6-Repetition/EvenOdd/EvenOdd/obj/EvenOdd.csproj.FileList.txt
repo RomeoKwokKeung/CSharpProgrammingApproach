@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EvenOdd.FrmEvenOdd.resources
+obj\Debug\EvenOdd.InputBox.resources
+obj\Debug\EvenOdd.Properties.Resources.resources
+obj\Debug\EvenOdd.csproj.GenerateResource.Cache
+bin\Debug\EvenOdd.exe
+bin\Debug\EvenOdd.pdb
+obj\Debug\EvenOdd.exe
+obj\Debug\EvenOdd.pdb

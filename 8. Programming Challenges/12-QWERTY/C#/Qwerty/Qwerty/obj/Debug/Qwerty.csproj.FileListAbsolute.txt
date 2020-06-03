@@ -1,0 +1,12 @@
+C:\Temp\Qwerty\Qwerty\bin\Debug\Qwerty.exe.config
+C:\Temp\Qwerty\Qwerty\bin\Debug\Qwerty.exe
+C:\Temp\Qwerty\Qwerty\bin\Debug\Qwerty.pdb
+C:\Temp\Qwerty\Qwerty\obj\Debug\Qwerty.csprojResolveAssemblyReference.cache
+C:\Temp\Qwerty\Qwerty\obj\Debug\Qwerty.FrmQwerty.resources
+C:\Temp\Qwerty\Qwerty\obj\Debug\Qwerty.Properties.Resources.resources
+C:\Temp\Qwerty\Qwerty\obj\Debug\Qwerty.csproj.GenerateResource.Cache
+C:\Temp\Qwerty\Qwerty\obj\Debug\Qwerty.exe
+C:\Temp\Qwerty\Qwerty\obj\Debug\Qwerty.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\12-QWERTY\C#\Qwerty\Qwerty\bin\Debug\Qwerty.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\12-QWERTY\C#\Qwerty\Qwerty\obj\Debug\Qwerty.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\12-QWERTY\C#\Qwerty\Qwerty\obj\Debug\Qwerty.pdb

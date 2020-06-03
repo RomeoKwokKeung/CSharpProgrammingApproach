@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.exe
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.pdb
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\2-LetterCount\LetterCount\bin\Debug\LetterCount.exe
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\2-LetterCount\LetterCount\bin\Debug\LetterCount.pdb
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.FrmLetterCount.resources
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\bin\Debug\LetterCount.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\bin\Debug\LetterCount.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.FrmLetterCount.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\2-LetterCount\LetterCount\obj\Debug\LetterCount.pdb

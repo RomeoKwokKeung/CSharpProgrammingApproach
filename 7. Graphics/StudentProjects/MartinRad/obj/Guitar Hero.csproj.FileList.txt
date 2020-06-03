@@ -1,0 +1,17 @@
+.\bin\Release\BeachBalls.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BeachBalls.frmGame.resources
+obj\Release\BeachBalls.Properties.Resources.resources
+obj\Release\Guitar Hero.csproj.GenerateResource.Cache
+obj\Release\BeachBalls.exe
+.\bin\Debug\BeachBalls.exe
+.\bin\Debug\BeachBalls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BeachBalls.frmGame.resources
+obj\Debug\BeachBalls.Properties.Resources.resources
+obj\Debug\Guitar Hero.csproj.GenerateResource.Cache
+obj\Debug\BeachBalls.exe
+obj\Debug\BeachBalls.pdb
+obj\Debug\BeachBalls.frmStart.resources
+obj\Release\BeachBalls.frmStart.resources
+obj\Debug\BeachBalls.frmInstructions.resources

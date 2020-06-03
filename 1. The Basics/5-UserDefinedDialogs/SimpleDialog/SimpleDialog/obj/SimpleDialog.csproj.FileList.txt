@@ -1,0 +1,8 @@
+bin\Debug\SimpleDialog.exe
+bin\Debug\SimpleDialog.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleDialog.Properties.Resources.resources
+obj\Debug\SimpleDialog.SimpleDialog.resources
+obj\Debug\SimpleDialog.csproj.GenerateResource.Cache
+obj\Debug\SimpleDialog.exe
+obj\Debug\SimpleDialog.pdb

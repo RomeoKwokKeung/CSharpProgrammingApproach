@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.GenerateResource.Cache

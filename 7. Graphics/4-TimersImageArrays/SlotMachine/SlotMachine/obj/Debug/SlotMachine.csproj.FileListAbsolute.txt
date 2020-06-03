@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\SlotMachine\SlotMachine\obj\Debug\SlotMachine.FrmSlotMachine.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+Sun
+60
+Mon
+70
+Tue
+65
+Wed
+80
+Thur
+59
+Fri
+66
+Sat
+71

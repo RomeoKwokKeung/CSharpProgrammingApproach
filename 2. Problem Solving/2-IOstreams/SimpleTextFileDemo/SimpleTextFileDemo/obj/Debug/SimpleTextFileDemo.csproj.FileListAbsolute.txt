@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache

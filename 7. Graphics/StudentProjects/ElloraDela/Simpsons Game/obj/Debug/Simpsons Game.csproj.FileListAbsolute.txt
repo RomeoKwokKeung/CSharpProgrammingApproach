@@ -1,0 +1,13 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Simpsons Game.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Simpsons Game.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Simpsons Game.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\bin\Debug\Simpsons Game.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\bin\Debug\Simpsons Game.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Simpsons_Game.Game.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Simpsons_Game.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Simpsons_Game.WelSimpson.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ElloraDela\Simpsons Game\obj\Debug\Simpsons Game.csproj.GenerateResource.Cache

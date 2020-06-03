@@ -1,0 +1,8 @@
+bin\Debug\LetterCount.exe
+bin\Debug\LetterCount.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LetterCount.FrmLetterCount.resources
+obj\Debug\LetterCount.Properties.Resources.resources
+obj\Debug\LetterCount.csproj.GenerateResource.Cache
+obj\Debug\LetterCount.exe
+obj\Debug\LetterCount.pdb

@@ -1,0 +1,26 @@
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\bin\Release\FourInARow.exe
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\bin\Release\FourInARow.pdb
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Release\ResolveAssemblyReference.cache
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Release\FourInARow.FrmFourInARow.resources
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Release\FourInARow.Properties.Resources.resources
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Release\FourInARow.csproj.GenerateResource.Cache
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Release\FourInARow.exe
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Release\FourInARow.pdb
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\bin\Debug\FourInARow.exe
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\bin\Debug\FourInARow.pdb
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.FrmFourInARow.resources
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.Properties.Resources.resources
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.csproj.GenerateResource.Cache
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.exe
+D:\temp\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\bin\Debug\FourInARow.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\bin\Debug\FourInARow.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.FrmFourInARow.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.csproj.GenerateResource.Cache
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem1\FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.pdb

@@ -1,0 +1,9 @@
+C:\Temp\SingleDigit\SingleDigit\bin\Debug\SingleDigit.exe.config
+C:\Temp\SingleDigit\SingleDigit\bin\Debug\SingleDigit.exe
+C:\Temp\SingleDigit\SingleDigit\bin\Debug\SingleDigit.pdb
+C:\Temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.csprojResolveAssemblyReference.cache
+C:\Temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.FrmSingleDigit.resources
+C:\Temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.Properties.Resources.resources
+C:\Temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.csproj.GenerateResource.Cache
+C:\Temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.exe
+C:\Temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.pdb

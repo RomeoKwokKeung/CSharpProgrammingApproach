@@ -1,0 +1,15 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\bin\Debug\FlipBook.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\bin\Debug\FlipBook.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.FrmFlipBook.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\FlipBook\FlipBook\bin\Debug\FlipBook.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\FlipBook\FlipBook\bin\Debug\FlipBook.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.FrmFlipBook.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\FlipBook\FlipBook\obj\Debug\FlipBook.csproj.GenerateResource.Cache

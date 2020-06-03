@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\Calculator\Calculator\obj\Debug\Calculator.pdb

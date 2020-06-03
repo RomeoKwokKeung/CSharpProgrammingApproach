@@ -1,0 +1,6 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\GuessNumber\obj\Debug\GuessNumber.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.Cache

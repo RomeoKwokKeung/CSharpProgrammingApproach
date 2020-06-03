@@ -1,0 +1,16 @@
+obj\Debug\DragDrop.exe
+obj\Debug\DragDrop.pdb
+bin\Debug\DragDrop.exe
+bin\Debug\DragDrop.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DragDrop.Form1.resources
+obj\Debug\DragDrop.Properties.Resources.resources
+obj\Debug\DragDrop.csproj.GenerateResource.Cache
+bin\Release\DragDrop.exe
+bin\Release\DragDrop.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DragDrop.Form1.resources
+obj\Release\DragDrop.Properties.Resources.resources
+obj\Release\DragDrop.csproj.GenerateResource.Cache
+obj\Release\DragDrop.exe
+obj\Release\DragDrop.pdb

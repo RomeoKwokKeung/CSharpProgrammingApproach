@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.FrmArrayIntro.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.FrmArrayIntro.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb

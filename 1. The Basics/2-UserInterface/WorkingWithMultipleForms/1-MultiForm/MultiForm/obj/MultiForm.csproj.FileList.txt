@@ -1,0 +1,9 @@
+obj\Debug\MultiForm.exe
+obj\Debug\MultiForm.pdb
+bin\Debug\MultiForm.exe
+bin\Debug\MultiForm.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MultiForm.FrmOne.resources
+obj\Debug\MultiForm.FrmTwo.resources
+obj\Debug\MultiForm.Properties.Resources.resources
+obj\Debug\MultiForm.csproj.GenerateResource.Cache

@@ -1,0 +1,80 @@
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\bin\Debug\Avoid Armageddon.exe
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\bin\Debug\Avoid Armageddon.pdb
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Form1.resources
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Properties.Resources.resources
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.GenerateResource.Cache
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\obj\Debug\Avoid Armageddon.exe
+C:\Users\Patrick Jakubowski\AppData\Local\Temporary Projects\Avoid Armageddon\obj\Debug\Avoid Armageddon.pdb
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.exe
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.pdb
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.exe
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.pdb
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Form1.resources
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Properties.Resources.resources
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.GenerateResource.Cache
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\bin\Debug\Interop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\Interop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Documents\Visual Studio 2008\Projects\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.ResolveComReference.cache
+H:\Avoid Armageddon\Avoid Armageddon\obj\Debug\Interop.WMPLib.dll
+H:\Avoid Armageddon\Avoid Armageddon\obj\Debug\AxInterop.WMPLib.dll
+H:\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.ResolveComReference.cache
+H:\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.exe
+H:\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.pdb
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Interop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\AxInterop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.ResolveComReference.cache
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.exe
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.pdb
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.exe
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.pdb
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\Interop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\AxInterop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\ResolveAssemblyReference.cache
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Properties.Resources.resources
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.GenerateResource.Cache
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.FrmArmageddon.resources
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Interop.WMPLib.dll
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\AxInterop.WMPLib.dll
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.ResolveComReference.cache
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.exe
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.pdb
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.exe
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.pdb
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\Interop.WMPLib.dll
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Debug\AxInterop.WMPLib.dll
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\ResolveAssemblyReference.cache
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.FrmArmageddon.resources
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Properties.Resources.resources
+U:\jakubowpa152\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.GenerateResource.Cache
+H:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.FrmStartup.resources
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Interop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.ResolveComReference.cache
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.exe
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.pdb
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.exe
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\bin\Debug\Avoid Armageddon.pdb
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\bin\Debug\Interop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.FrmArmageddon.resources
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Properties.Resources.resources
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid_Armageddon.FrmStartup.resources
+C:\Users\Patrick Jakubowski\Desktop\Avoid Armageddon\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Avoid Armageddon.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Avoid Armageddon.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\bin\Debug\Avoid Armageddon.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\bin\Debug\Avoid Armageddon.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Avoid_Armageddon.FrmArmageddon.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Avoid_Armageddon.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Avoid_Armageddon.FrmStartup.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PatrickJakubowski\Avoid Armageddon\obj\Debug\Avoid Armageddon.csproj.GenerateResource.Cache

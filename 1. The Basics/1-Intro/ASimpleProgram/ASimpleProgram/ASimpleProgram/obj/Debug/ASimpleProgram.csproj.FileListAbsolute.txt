@@ -1,0 +1,4 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\ch02\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\ch02\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.pdb
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\1-Intro\ASimpleProgram\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.exe
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\1-Intro\ASimpleProgram\ASimpleProgram\ASimpleProgram\obj\Debug\ASimpleProgram.pdb

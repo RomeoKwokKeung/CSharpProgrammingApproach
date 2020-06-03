@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\obj\Debug\DiceRollerHistogram.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\obj\Debug\DiceRollerHistogram.pdb

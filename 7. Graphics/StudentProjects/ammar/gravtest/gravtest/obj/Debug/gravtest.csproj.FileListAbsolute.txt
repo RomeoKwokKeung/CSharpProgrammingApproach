@@ -1,0 +1,82 @@
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\bin\Debug\gravtest.exe
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\bin\Debug\gravtest.pdb
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\obj\Debug\gravtest.Form1.resources
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\obj\Debug\gravtest.exe
+C:\Documents and Settings\abolebdam224\Local Settings\Application Data\Temporary Projects\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+K:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.exe
+K:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.pdb
+K:\Documents\School\Programming\gravtest\gravtest\bin\Debug\gravtest.exe
+K:\Documents\School\Programming\gravtest\gravtest\bin\Debug\gravtest.pdb
+K:\Documents\School\Programming\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+K:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+K:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+K:\Documents\School\Programming\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\ISU game 1\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\ISU game 2\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\ISU game 3\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\Isu game 4\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\bin\Debug\Interop.WMPLib.dll
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\bin\Debug\AxInterop.WMPLib.dll
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\Interop.WMPLib.dll
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\AxInterop.WMPLib.dll
+E:\Documents\School\Programming\ISU game 5\gravtest\gravtest\obj\Debug\gravtest.csproj.ResolveComReference.cache
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\Interop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\AxInterop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.csproj.ResolveComReference.cache
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\Interop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\AxInterop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.csproj.GenerateResource.Cache

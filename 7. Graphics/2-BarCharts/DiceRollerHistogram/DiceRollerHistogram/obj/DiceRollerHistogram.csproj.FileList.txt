@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DiceRollerHistogram.FrmDiceRollerHistogram.resources
+obj\Debug\DiceRollerHistogram.Properties.Resources.resources
+obj\Debug\DiceRollerHistogram.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DiceRollerHistogram.FrmDiceRollerHistogram.resources
+obj\Release\DiceRollerHistogram.Properties.Resources.resources
+obj\Release\DiceRollerHistogram.csproj.GenerateResource.Cache
+bin\Release\DiceRollerHistogram.exe
+bin\Release\DiceRollerHistogram.pdb
+obj\Release\DiceRollerHistogram.exe
+obj\Release\DiceRollerHistogram.pdb
+bin\Debug\DiceRollerHistogram.exe
+bin\Debug\DiceRollerHistogram.pdb
+obj\Debug\DiceRollerHistogram.exe
+obj\Debug\DiceRollerHistogram.pdb

@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\obj\Debug\FlipBook.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\obj\Debug\FlipBook.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\bin\Debug\FlipBook.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\bin\Debug\FlipBook.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\obj\Debug\FlipBook.FrmFlipBook.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\obj\Debug\FlipBook.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\obj\Debug\FlipBook.csproj.GenerateResource.Cache

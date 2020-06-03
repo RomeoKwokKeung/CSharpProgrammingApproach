@@ -1,0 +1,10 @@
+C:\Temp\cs\TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.exe
+C:\Temp\cs\TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.pdb
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.exe
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.pdb
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.FrmTwoDIntro.resources
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.Properties.Resources.resources
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.GenerateResource.Cache
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.exe
+C:\Temp\cs\SimpleTwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.pdb

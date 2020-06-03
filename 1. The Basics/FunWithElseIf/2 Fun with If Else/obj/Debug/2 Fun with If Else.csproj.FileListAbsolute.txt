@@ -1,0 +1,18 @@
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\bin\Debug\2 Fun with If Else.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\bin\Debug\2 Fun with If Else.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\obj\Debug\__Fun_with_If_Else.Form1.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\obj\Debug\__Fun_with_If_Else.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\obj\Debug\2 Fun with If Else.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\obj\Debug\2 Fun with If Else.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\obj\Debug\2 Fun with If Else.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\2 Fun with If Else\2 Fun with If Else\obj\Debug\2 Fun with If Else.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\2 Fun with If Else\2 Fun with If Else\obj\Debug\2 Fun with If Else.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\2 Fun with If Else\2 Fun with If Else\obj\Debug\2 Fun with If Else.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\obj\Debug\2 Fun with If Else.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\obj\Debug\2 Fun with If Else.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\bin\Debug\2 Fun with If Else.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\bin\Debug\2 Fun with If Else.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\obj\Debug\2 Fun with If Else.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\obj\Debug\__Fun_with_If_Else.Form1.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\obj\Debug\__Fun_with_If_Else.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture13Extra\2 Fun with If Else\obj\Debug\2 Fun with If Else.csproj.GenerateResource.Cache

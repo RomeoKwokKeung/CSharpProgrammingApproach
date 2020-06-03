@@ -1,0 +1,9 @@
+C:\Temp\VowelPalindromes\VowelPalindromes\bin\Debug\VowelPalindromes.exe.config
+C:\Temp\VowelPalindromes\VowelPalindromes\bin\Debug\VowelPalindromes.exe
+C:\Temp\VowelPalindromes\VowelPalindromes\bin\Debug\VowelPalindromes.pdb
+C:\Temp\VowelPalindromes\VowelPalindromes\obj\Debug\VowelPalindromes.csprojResolveAssemblyReference.cache
+C:\Temp\VowelPalindromes\VowelPalindromes\obj\Debug\VowelPalindromes.FrmVowels.resources
+C:\Temp\VowelPalindromes\VowelPalindromes\obj\Debug\VowelPalindromes.Properties.Resources.resources
+C:\Temp\VowelPalindromes\VowelPalindromes\obj\Debug\VowelPalindromes.csproj.GenerateResource.Cache
+C:\Temp\VowelPalindromes\VowelPalindromes\obj\Debug\VowelPalindromes.exe
+C:\Temp\VowelPalindromes\VowelPalindromes\obj\Debug\VowelPalindromes.pdb

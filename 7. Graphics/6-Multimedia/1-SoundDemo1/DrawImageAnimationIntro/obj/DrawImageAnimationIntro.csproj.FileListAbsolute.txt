@@ -1,0 +1,15 @@
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.pdb
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\DrawImageAnimationIntro.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\DrawImageAnimationIntro.pdb
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\Interop.WMPLib.dll
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\AxInterop.WMPLib.dll
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\Interop.WMPLib.dll
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\AxInterop.WMPLib.dll
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.csproj.ResolveComReference.cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.FrmDrawImage.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-AdvancedGraphics\C#\5-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.csproj.GenerateResource.Cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.pdb

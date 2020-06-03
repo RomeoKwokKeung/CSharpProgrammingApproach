@@ -1,0 +1,9 @@
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\bin\Debug\ShinyDigitalKey.exe.config
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\bin\Debug\ShinyDigitalKey.exe
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\bin\Debug\ShinyDigitalKey.pdb
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\obj\Debug\ShinyDigitalKey.csprojResolveAssemblyReference.cache
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\obj\Debug\ShinyDigitalKey.FrmDigitalKey.resources
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\obj\Debug\ShinyDigitalKey.Properties.Resources.resources
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\obj\Debug\ShinyDigitalKey.csproj.GenerateResource.Cache
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\obj\Debug\ShinyDigitalKey.exe
+C:\Temp\ShinyDigitalKey\ShinyDigitalKey\obj\Debug\ShinyDigitalKey.pdb

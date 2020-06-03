@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\4-Mouse\Animation1\obj\Debug\Animation1.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\4-Mouse\Animation1\obj\Debug\Animation1.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\4-Mouse\Animation1\bin\Debug\Animation1.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\4-Mouse\Animation1\bin\Debug\Animation1.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\4-Mouse\Animation1\obj\Debug\Animation1.FrmAnimation.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\4-Mouse\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\4-Mouse\Animation1\obj\Debug\Animation1.csproj.GenerateResource.Cache

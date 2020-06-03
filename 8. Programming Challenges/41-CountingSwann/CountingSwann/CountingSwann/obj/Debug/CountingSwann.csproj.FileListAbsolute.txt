@@ -1,0 +1,10 @@
+C:\Temp\CountingSwann\CountingSwann\bin\Debug\CountingSwann.exe.config
+C:\Temp\CountingSwann\CountingSwann\bin\Debug\CountingSwann.exe
+C:\Temp\CountingSwann\CountingSwann\bin\Debug\CountingSwann.pdb
+C:\Temp\CountingSwann\CountingSwann\obj\Debug\CountingSwann.csprojAssemblyReference.cache
+C:\Temp\CountingSwann\CountingSwann\obj\Debug\CountingSwann.FrmSwann.resources
+C:\Temp\CountingSwann\CountingSwann\obj\Debug\CountingSwann.Properties.Resources.resources
+C:\Temp\CountingSwann\CountingSwann\obj\Debug\CountingSwann.csproj.GenerateResource.cache
+C:\Temp\CountingSwann\CountingSwann\obj\Debug\CountingSwann.csproj.CoreCompileInputs.cache
+C:\Temp\CountingSwann\CountingSwann\obj\Debug\CountingSwann.exe
+C:\Temp\CountingSwann\CountingSwann\obj\Debug\CountingSwann.pdb

@@ -1,0 +1,13 @@
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.FrmMain.resources
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Owner\Desktop\TetrisGame\TetrisGame\bin\Debug\AxInterop.WMPLib.dll

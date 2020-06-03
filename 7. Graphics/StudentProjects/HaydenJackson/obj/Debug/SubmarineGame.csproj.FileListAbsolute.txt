@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\SubmarineGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\SubmarineGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\bin\Debug\SubmarineGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\bin\Debug\SubmarineGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\FrmIntro.FrmGame.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\FrmIntro.FrmHow.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\FrmIntro.FrmIntro.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\FrmIntro.FrmResults.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\FrmIntro.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\HaydenJackson\obj\Debug\SubmarineGame.csproj.GenerateResource.Cache

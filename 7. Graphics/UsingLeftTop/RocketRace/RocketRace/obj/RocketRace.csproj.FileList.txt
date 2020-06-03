@@ -1,0 +1,8 @@
+bin\Debug\RocketRace.exe
+bin\Debug\RocketRace.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RocketRace.FrmRocketRace.resources
+obj\Debug\RocketRace.Properties.Resources.resources
+obj\Debug\RocketRace.csproj.GenerateResource.Cache
+obj\Debug\RocketRace.exe
+obj\Debug\RocketRace.pdb

@@ -1,0 +1,10 @@
+C:\Temp\Parking\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Temp\Parking\Parking\obj\Debug\Parking.FrmParking.resources
+C:\Temp\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Temp\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Temp\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Temp\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Temp\Parking\Parking\bin\Debug\Parking.exe
+C:\Temp\Parking\Parking\bin\Debug\Parking.pdb
+C:\Temp\Parking\Parking\obj\Debug\Parking.exe
+C:\Temp\Parking\Parking\obj\Debug\Parking.pdb

@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\bin\Debug\ArrayIntermediate.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\bin\Debug\ArrayIntermediate.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.FrmIntermediate.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\bin\Debug\ArrayIntermediate.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\bin\Debug\ArrayIntermediate.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.FrmIntermediate.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.pdb

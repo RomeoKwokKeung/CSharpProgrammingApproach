@@ -1,0 +1,10 @@
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\bin\Debug\ShowMeTheMoney.exe.config
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\bin\Debug\ShowMeTheMoney.exe
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\bin\Debug\ShowMeTheMoney.pdb
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\obj\Debug\ShowMeTheMoney.csprojAssemblyReference.cache
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\obj\Debug\ShowMeTheMoney.FrmMoney.resources
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\obj\Debug\ShowMeTheMoney.Properties.Resources.resources
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\obj\Debug\ShowMeTheMoney.csproj.GenerateResource.cache
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\obj\Debug\ShowMeTheMoney.csproj.CoreCompileInputs.cache
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\obj\Debug\ShowMeTheMoney.exe
+C:\Temp\ShowMeTheMoney\ShowMeTheMoney\obj\Debug\ShowMeTheMoney.pdb

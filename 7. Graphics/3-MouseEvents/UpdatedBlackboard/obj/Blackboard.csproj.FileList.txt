@@ -1,0 +1,8 @@
+obj\Debug\Blackboard.exe
+obj\Debug\Blackboard.pdb
+.\bin\Debug\Blackboard.exe
+.\bin\Debug\Blackboard.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Blackboard.Properties.Resources.resources
+obj\Debug\Blackboard.csproj.GenerateResource.Cache
+obj\Debug\Blackboard.Form1.resources

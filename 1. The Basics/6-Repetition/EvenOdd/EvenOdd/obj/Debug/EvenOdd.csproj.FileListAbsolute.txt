@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\obj\Debug\EvenOdd.FrmEvenOdd.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\obj\Debug\EvenOdd.InputBox.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\obj\Debug\EvenOdd.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Temp\WordSwap\WordSwap\bin\Debug\WordSwap.exe.config
+C:\Temp\WordSwap\WordSwap\bin\Debug\WordSwap.exe
+C:\Temp\WordSwap\WordSwap\bin\Debug\WordSwap.pdb
+C:\Temp\WordSwap\WordSwap\obj\Debug\WordSwap.csprojResolveAssemblyReference.cache
+C:\Temp\WordSwap\WordSwap\obj\Debug\WordSwap.FrmWordSwap.resources
+C:\Temp\WordSwap\WordSwap\obj\Debug\WordSwap.Properties.Resources.resources
+C:\Temp\WordSwap\WordSwap\obj\Debug\WordSwap.csproj.GenerateResource.Cache
+C:\Temp\WordSwap\WordSwap\obj\Debug\WordSwap.exe
+C:\Temp\WordSwap\WordSwap\obj\Debug\WordSwap.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\26-WordSwap\C#\WordSwap\WordSwap\bin\Debug\WordSwap.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\26-WordSwap\C#\WordSwap\WordSwap\obj\Debug\WordSwap.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\26-WordSwap\C#\WordSwap\WordSwap\obj\Debug\WordSwap.pdb

@@ -1,0 +1,12 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\bin\Debug\TetrisGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\bin\Debug\TetrisGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\TetrisGame.FrmMain.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ScottMastromatteoTetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.Cache

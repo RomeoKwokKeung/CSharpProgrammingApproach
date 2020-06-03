@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\1-methods\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache

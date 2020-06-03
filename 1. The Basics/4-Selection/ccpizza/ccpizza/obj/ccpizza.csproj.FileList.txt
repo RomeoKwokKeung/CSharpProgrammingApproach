@@ -1,0 +1,8 @@
+bin\Debug\ccpizza.exe
+bin\Debug\ccpizza.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ccpizza.FrmPizza.resources
+obj\Debug\ccpizza.Properties.Resources.resources
+obj\Debug\ccpizza.csproj.GenerateResource.Cache
+obj\Debug\ccpizza.exe
+obj\Debug\ccpizza.pdb

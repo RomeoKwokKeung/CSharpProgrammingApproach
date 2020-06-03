@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BarChart.Properties.Resources.resources
+obj\Debug\BarChart.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BarChart.Form1.resources
+obj\Release\BarChart.Properties.Resources.resources
+obj\Release\BarChart.csproj.GenerateResource.Cache
+bin\Release\BarChart.exe
+bin\Release\BarChart.pdb
+obj\Release\BarChart.exe
+obj\Release\BarChart.pdb
+bin\Debug\BarChart.exe
+bin\Debug\BarChart.pdb
+obj\Debug\BarChart.exe
+obj\Debug\BarChart.pdb
+obj\Debug\BarChart.FrmBarChart.resources

@@ -1,0 +1,9 @@
+C:\Temp\Parity\Parity\bin\Debug\Parity.exe.config
+C:\Temp\Parity\Parity\bin\Debug\Parity.exe
+C:\Temp\Parity\Parity\bin\Debug\Parity.pdb
+C:\Temp\Parity\Parity\obj\Debug\Parity.csprojResolveAssemblyReference.cache
+C:\Temp\Parity\Parity\obj\Debug\Parity.FrmParity.resources
+C:\Temp\Parity\Parity\obj\Debug\Parity.Properties.Resources.resources
+C:\Temp\Parity\Parity\obj\Debug\Parity.csproj.GenerateResource.Cache
+C:\Temp\Parity\Parity\obj\Debug\Parity.exe
+C:\Temp\Parity\Parity\obj\Debug\Parity.pdb

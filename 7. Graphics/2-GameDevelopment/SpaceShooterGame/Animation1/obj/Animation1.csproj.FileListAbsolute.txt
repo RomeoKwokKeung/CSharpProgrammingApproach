@@ -1,0 +1,13 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\Animation1.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\Animation1.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\bin\Debug\Animation1.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\bin\Debug\Animation1.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\bin\Debug\Interop.WMPLib.dll
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\bin\Debug\AxInterop.WMPLib.dll
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\Interop.WMPLib.dll
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\AxInterop.WMPLib.dll
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\Animation1.csproj.ResolveComReference.cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\Animation1.FrmAnimation.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\8-AdvancedGraphics\2-GameDevelopment\SpaceShooterGame\Animation1\obj\Debug\Animation1.csproj.GenerateResource.Cache

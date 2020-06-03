@@ -1,0 +1,9 @@
+C:\Temp\Rectangles\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Temp\Rectangles\Rectangles\bin\Debug\Rectangles.exe
+C:\Temp\Rectangles\Rectangles\bin\Debug\Rectangles.pdb
+C:\Temp\Rectangles\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Temp\Rectangles\Rectangles\obj\Debug\Rectangles.FrmRectangles.resources
+C:\Temp\Rectangles\Rectangles\obj\Debug\Rectangles.Properties.Resources.resources
+C:\Temp\Rectangles\Rectangles\obj\Debug\Rectangles.csproj.GenerateResource.Cache
+C:\Temp\Rectangles\Rectangles\obj\Debug\Rectangles.exe
+C:\Temp\Rectangles\Rectangles\obj\Debug\Rectangles.pdb

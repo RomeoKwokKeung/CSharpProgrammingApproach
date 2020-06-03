@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SortingIntroduction\SortingIntroduction\bin\Debug\SortingIntroduction.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SortingIntroduction\SortingIntroduction\bin\Debug\SortingIntroduction.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.FrmSortingIntro.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\bin\Debug\SortingIntroduction.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\bin\Debug\SortingIntroduction.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.FrmSortingIntro.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\SortingIntroduction\SortingIntroduction\obj\Debug\SortingIntroduction.pdb

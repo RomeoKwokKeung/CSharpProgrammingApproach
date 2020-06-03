@@ -1,0 +1,7 @@
+obj\Debug\RGBColors.exe
+obj\Debug\RGBColors.pdb
+.\bin\Debug\RGBColors.exe
+.\bin\Debug\RGBColors.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RGBColors.Properties.Resources.resources
+obj\Debug\RGBColors.csproj.GenerateResource.Cache

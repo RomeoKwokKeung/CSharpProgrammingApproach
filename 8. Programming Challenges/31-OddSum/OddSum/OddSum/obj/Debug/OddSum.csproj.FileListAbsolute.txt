@@ -1,0 +1,10 @@
+C:\Temp\OddSum\OddSum\bin\Debug\OddSum.exe.config
+C:\Temp\OddSum\OddSum\bin\Debug\OddSum.exe
+C:\Temp\OddSum\OddSum\bin\Debug\OddSum.pdb
+C:\Temp\OddSum\OddSum\obj\Debug\OddSum.csprojResolveAssemblyReference.cache
+C:\Temp\OddSum\OddSum\obj\Debug\OddSum.FrmOddSum.resources
+C:\Temp\OddSum\OddSum\obj\Debug\OddSum.Properties.Resources.resources
+C:\Temp\OddSum\OddSum\obj\Debug\OddSum.csproj.GenerateResource.cache
+C:\Temp\OddSum\OddSum\obj\Debug\OddSum.csproj.CoreCompileInputs.cache
+C:\Temp\OddSum\OddSum\obj\Debug\OddSum.exe
+C:\Temp\OddSum\OddSum\obj\Debug\OddSum.pdb

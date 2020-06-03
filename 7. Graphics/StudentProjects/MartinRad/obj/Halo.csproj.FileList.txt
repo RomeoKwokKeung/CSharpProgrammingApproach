@@ -1,0 +1,8 @@
+obj\Debug\BeachBalls.exe
+obj\Debug\BeachBalls.pdb
+.\bin\Debug\BeachBalls.exe
+.\bin\Debug\BeachBalls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BeachBalls.frmGame.resources
+obj\Debug\BeachBalls.Properties.Resources.resources
+obj\Debug\Halo.csproj.GenerateResource.Cache

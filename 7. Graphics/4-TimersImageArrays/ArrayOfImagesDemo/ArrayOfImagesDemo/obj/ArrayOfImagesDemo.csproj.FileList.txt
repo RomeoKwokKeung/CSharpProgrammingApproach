@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ArrayOfImagesDemo.FrmArrayOfImages.resources
+obj\Debug\ArrayOfImagesDemo.Properties.Resources.resources
+obj\Debug\ArrayOfImagesDemo.csproj.GenerateResource.Cache
+bin\Debug\ArrayOfImagesDemo.exe
+bin\Debug\ArrayOfImagesDemo.pdb
+obj\Debug\ArrayOfImagesDemo.exe
+obj\Debug\ArrayOfImagesDemo.pdb

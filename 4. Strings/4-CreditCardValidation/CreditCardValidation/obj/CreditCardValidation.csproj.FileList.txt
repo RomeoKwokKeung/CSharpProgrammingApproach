@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CreditCardValidation.FrmCreditCardValidation.resources
+obj\Debug\CreditCardValidation.Properties.Resources.resources
+obj\Debug\CreditCardValidation.csproj.GenerateResource.Cache
+bin\Debug\CreditCardValidation.exe
+bin\Debug\CreditCardValidation.pdb
+obj\Debug\CreditCardValidation.exe
+obj\Debug\CreditCardValidation.pdb

@@ -1,0 +1,15 @@
+C:\Temp\WaitingLong\WaitingLong\bin\Debug\WaitingLong.exe.config
+C:\Temp\WaitingLong\WaitingLong\bin\Debug\WaitingLong.exe
+C:\Temp\WaitingLong\WaitingLong\bin\Debug\WaitingLong.pdb
+C:\Temp\WaitingLong\WaitingLong\obj\Debug\WaitingLong.csprojResolveAssemblyReference.cache
+C:\Temp\WaitingLong\WaitingLong\obj\Debug\WaitingLong.FrmWaitingLong.resources
+C:\Temp\WaitingLong\WaitingLong\obj\Debug\WaitingLong.Properties.Resources.resources
+C:\Temp\WaitingLong\WaitingLong\obj\Debug\WaitingLong.csproj.GenerateResource.Cache
+C:\Temp\WaitingLong\WaitingLong\obj\Debug\WaitingLong.exe
+C:\Temp\WaitingLong\WaitingLong\obj\Debug\WaitingLong.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-WaitingLong\C#\WaitingLong\WaitingLong\bin\Debug\WaitingLong.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-WaitingLong\C#\WaitingLong\WaitingLong\obj\Debug\WaitingLong.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-WaitingLong\C#\WaitingLong\WaitingLong\obj\Debug\WaitingLong.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\3-WaitingLong\C#\WaitingLong\WaitingLong\bin\Debug\WaitingLong.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\3-WaitingLong\C#\WaitingLong\WaitingLong\obj\Debug\WaitingLong.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\3-WaitingLong\C#\WaitingLong\WaitingLong\obj\Debug\WaitingLong.pdb

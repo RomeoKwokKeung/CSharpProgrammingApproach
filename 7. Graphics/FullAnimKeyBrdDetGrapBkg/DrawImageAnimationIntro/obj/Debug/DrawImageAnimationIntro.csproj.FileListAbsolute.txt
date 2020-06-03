@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\bin\Debug\DrawImageAnimationIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\bin\Debug\DrawImageAnimationIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.FrmDrawImage.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\5-AnimationKeyboardEvents\UsingDrawImage\FullAnimKeyBrdDetGrapBkg\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.pdb

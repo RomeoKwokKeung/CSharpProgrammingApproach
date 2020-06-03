@@ -1,0 +1,11 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\bin\Debug\MouseProblem.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\bin\Debug\MouseProblem.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmMouseProblem.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmOne.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmThree.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmTwo.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.csproj.GenerateResource.Cache

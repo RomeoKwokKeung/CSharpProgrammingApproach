@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\bin\Debug\MouseProblem.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\bin\Debug\MouseProblem.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmMouseProblem.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmOne.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmThree.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.FrmTwo.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\MouseProblem\MouseProblem\obj\Debug\MouseProblem.csproj.GenerateResource.Cache

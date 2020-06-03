@@ -1,0 +1,2 @@
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.pdb

@@ -1,0 +1,8 @@
+bin\Debug\DynaGraphics.exe
+bin\Debug\DynaGraphics.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DynaGraphics.Form1.resources
+obj\Debug\DynaGraphics.Properties.Resources.resources
+obj\Debug\DynaGraphics.csproj.GenerateResource.Cache
+obj\Debug\DynaGraphics.exe
+obj\Debug\DynaGraphics.pdb

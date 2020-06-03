@@ -1,0 +1,11 @@
+aabbcbaa
+(a)
+aabbcbbaa
+aa
+a{}a
+()
+(a)
+ver{(aga)}rev
+ab
+(a(b(a
+a(aa{b>c

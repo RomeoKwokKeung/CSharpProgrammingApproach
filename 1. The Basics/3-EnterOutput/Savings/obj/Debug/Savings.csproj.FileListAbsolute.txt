@@ -1,0 +1,6 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Savings\obj\Debug\Savings.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Savings\obj\Debug\Savings.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Savings\bin\Debug\Savings.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Savings\bin\Debug\Savings.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Savings\obj\Debug\Savings.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Savings\obj\Debug\Savings.csproj.GenerateResource.Cache

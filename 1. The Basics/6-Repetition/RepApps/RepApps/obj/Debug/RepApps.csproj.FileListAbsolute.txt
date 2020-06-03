@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\obj\Debug\RepApps.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\obj\Debug\RepApps.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\bin\Debug\RepApps.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\bin\Debug\RepApps.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\obj\Debug\RepApps.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\obj\Debug\RepApps.FrmRepApps.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\obj\Debug\RepApps.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\RepApps\RepApps\obj\Debug\RepApps.csproj.GenerateResource.Cache

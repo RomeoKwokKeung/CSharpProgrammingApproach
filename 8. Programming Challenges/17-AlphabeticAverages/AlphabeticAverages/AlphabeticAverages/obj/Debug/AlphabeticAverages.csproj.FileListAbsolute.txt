@@ -1,0 +1,19 @@
+c:\users\cchiarelli\documents\visual studio 2015\Projects\AlphabeticAverages\AlphabeticAverages\bin\Debug\AlphabeticAverages.exe.config
+C:\Temp\AlphabeticAverages\AlphabeticAverages\bin\Debug\AlphabeticAverages.exe.config
+C:\Temp\AlphabeticAverages\AlphabeticAverages\bin\Debug\AlphabeticAverages.exe
+C:\Temp\AlphabeticAverages\AlphabeticAverages\bin\Debug\AlphabeticAverages.pdb
+C:\Temp\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.csprojResolveAssemblyReference.cache
+C:\Temp\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.FrmAlphaAverage.resources
+C:\Temp\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.Properties.Resources.resources
+C:\Temp\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.csproj.GenerateResource.Cache
+C:\Temp\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.exe
+C:\Temp\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\bin\Debug\AlphabeticAverages.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\bin\Debug\AlphabeticAverages.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\bin\Debug\AlphabeticAverages.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.FrmAlphaAverage.resources
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\17-AlphabeticAverages\AlphabeticAverages\AlphabeticAverages\obj\Debug\AlphabeticAverages.pdb

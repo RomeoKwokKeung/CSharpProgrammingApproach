@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimersIntro", "TimersIntro\TimersIntro.csproj", "{DEA0D307-BB5A-4494-AF8F-B91A7F2FF767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA0D307-BB5A-4494-AF8F-B91A7F2FF767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA0D307-BB5A-4494-AF8F-B91A7F2FF767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA0D307-BB5A-4494-AF8F-B91A7F2FF767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA0D307-BB5A-4494-AF8F-B91A7F2FF767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

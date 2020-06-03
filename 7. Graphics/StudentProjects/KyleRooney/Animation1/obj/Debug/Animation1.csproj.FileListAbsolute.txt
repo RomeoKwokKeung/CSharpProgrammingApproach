@@ -1,0 +1,14 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\Animation1.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\ProStreetRacer.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\ProStreetRacer.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\bin\Debug\ProStreetRacer.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\bin\Debug\ProStreetRacer.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\Animation1.FrmAnimation.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\Animation1.FrmHighScores.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\Animation1.FrmMenu.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\ProStreetRacer.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KyleRooney\Animation1\obj\Debug\Animation1.csproj.GenerateResource.Cache

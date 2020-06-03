@@ -1,0 +1,12 @@
+C:\Temp\TypeWriter\TypeWriter\bin\Debug\TypeWriter.exe
+C:\Temp\TypeWriter\TypeWriter\bin\Debug\TypeWriter.pdb
+C:\Temp\TypeWriter\TypeWriter\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\TypeWriter\TypeWriter\obj\Debug\TypeWriter.FrmTypeWriter.resources
+C:\Temp\TypeWriter\TypeWriter\obj\Debug\TypeWriter.Properties.Resources.resources
+C:\Temp\TypeWriter\TypeWriter\obj\Debug\TypeWriter.csproj.GenerateResource.Cache
+C:\Temp\TypeWriter\TypeWriter\obj\Debug\TypeWriter.exe
+C:\Temp\TypeWriter\TypeWriter\obj\Debug\TypeWriter.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem2\PrimitiveTypewriters\C#\TypeWriter\TypeWriter\obj\Debug\TypeWriter.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem2\PrimitiveTypewriters\C#\TypeWriter\TypeWriter\obj\Debug\TypeWriter.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\7-PrimitiveTypewriters\C#\TypeWriter\TypeWriter\obj\Debug\TypeWriter.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\7-PrimitiveTypewriters\C#\TypeWriter\TypeWriter\obj\Debug\TypeWriter.pdb

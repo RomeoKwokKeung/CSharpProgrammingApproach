@@ -1,0 +1,2 @@
+obj\Debug\SwitchApp.exe
+obj\Debug\SwitchApp.pdb

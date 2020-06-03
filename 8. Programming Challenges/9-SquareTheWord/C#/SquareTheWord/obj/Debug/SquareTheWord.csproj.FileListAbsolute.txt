@@ -1,0 +1,11 @@
+C:\Temp\SquareTheWord\SquareTheWord\bin\Debug\SquareTheWord.exe.config
+C:\Temp\SquareTheWord\SquareTheWord\bin\Debug\SquareTheWord.exe
+C:\Temp\SquareTheWord\SquareTheWord\bin\Debug\SquareTheWord.pdb
+C:\Temp\SquareTheWord\SquareTheWord\obj\Debug\SquareTheWord.FrmSquare.resources
+C:\Temp\SquareTheWord\SquareTheWord\obj\Debug\SquareTheWord.Properties.Resources.resources
+C:\Temp\SquareTheWord\SquareTheWord\obj\Debug\SquareTheWord.csproj.GenerateResource.Cache
+C:\Temp\SquareTheWord\SquareTheWord\obj\Debug\SquareTheWord.exe
+C:\Temp\SquareTheWord\SquareTheWord\obj\Debug\SquareTheWord.pdb
+C:\Temp\ProgrammingChallenges\Beginner\SquareTheWord\C#\SquareTheWord\bin\Debug\SquareTheWord.exe.config
+C:\Temp\ProgrammingChallenges\Beginner\SquareTheWord\C#\SquareTheWord\obj\Debug\SquareTheWord.exe
+C:\Temp\ProgrammingChallenges\Beginner\SquareTheWord\C#\SquareTheWord\obj\Debug\SquareTheWord.pdb

@@ -1,0 +1,8 @@
+bin\Debug\VisualHelloWorld.exe
+bin\Debug\VisualHelloWorld.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VisualHelloWorld.Form1.resources
+obj\Debug\VisualHelloWorld.Properties.Resources.resources
+obj\Debug\VisualHelloWorld.csproj.GenerateResource.Cache
+obj\Debug\VisualHelloWorld.exe
+obj\Debug\VisualHelloWorld.pdb

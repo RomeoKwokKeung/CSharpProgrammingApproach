@@ -1,0 +1,12 @@
+C:\Temp\iProfit\iProfit\bin\Debug\iProfit.exe.config
+C:\Temp\iProfit\iProfit\bin\Debug\iProfit.exe
+C:\Temp\iProfit\iProfit\bin\Debug\iProfit.pdb
+C:\Temp\iProfit\iProfit\obj\Debug\iProfit.csprojResolveAssemblyReference.cache
+C:\Temp\iProfit\iProfit\obj\Debug\iProfit.FrmProfit.resources
+C:\Temp\iProfit\iProfit\obj\Debug\iProfit.Properties.Resources.resources
+C:\Temp\iProfit\iProfit\obj\Debug\iProfit.csproj.GenerateResource.Cache
+C:\Temp\iProfit\iProfit\obj\Debug\iProfit.exe
+C:\Temp\iProfit\iProfit\obj\Debug\iProfit.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\13-iProfits\C#\iProfit\iProfit\bin\Debug\iProfit.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\13-iProfits\C#\iProfit\iProfit\obj\Debug\iProfit.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\13-iProfits\C#\iProfit\iProfit\obj\Debug\iProfit.pdb

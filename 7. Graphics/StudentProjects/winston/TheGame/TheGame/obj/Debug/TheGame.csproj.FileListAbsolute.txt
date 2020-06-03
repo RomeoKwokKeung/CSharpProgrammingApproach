@@ -1,0 +1,46 @@
+F:\C Sharp\TheGame\TheGame\bin\Debug\TheGame.exe
+F:\C Sharp\TheGame\TheGame\bin\Debug\TheGame.pdb
+F:\C Sharp\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+F:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.Game.resources
+F:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+F:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+F:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.exe
+F:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.pdb
+E:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.exe
+E:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.pdb
+E:\C Sharp\TheGame\TheGame\bin\Debug\TheGame.exe
+E:\C Sharp\TheGame\TheGame\bin\Debug\TheGame.pdb
+E:\C Sharp\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.Game.resources
+E:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+E:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+F:\C Sharp\TheGame\TheGame\bin\Debug\Interop.WMPLib.dll
+F:\C Sharp\TheGame\TheGame\bin\Debug\AxInterop.WMPLib.dll
+F:\C Sharp\TheGame\TheGame\obj\Debug\Interop.WMPLib.dll
+F:\C Sharp\TheGame\TheGame\obj\Debug\AxInterop.WMPLib.dll
+F:\C Sharp\TheGame\TheGame\obj\Debug\TheGame.csproj.ResolveComReference.cache
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\Interop.WMPLib.dll
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\AxInterop.WMPLib.dll
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\TheGame.csproj.ResolveComReference.cache
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\TheGame.exe
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\TheGame.pdb
+H:\fcdownload\winstonthegame\TheGame\TheGame\bin\Debug\TheGame.exe
+H:\fcdownload\winstonthegame\TheGame\TheGame\bin\Debug\TheGame.pdb
+H:\fcdownload\winstonthegame\TheGame\TheGame\bin\Debug\Interop.WMPLib.dll
+H:\fcdownload\winstonthegame\TheGame\TheGame\bin\Debug\AxInterop.WMPLib.dll
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\ResolveAssemblyReference.cache
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\TheGame.Game.resources
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+H:\fcdownload\winstonthegame\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\TheGame.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\TheGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\TheGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\TheGame.Game.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\winston\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache

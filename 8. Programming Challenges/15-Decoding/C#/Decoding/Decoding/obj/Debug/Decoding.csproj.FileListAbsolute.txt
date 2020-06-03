@@ -1,0 +1,9 @@
+C:\Temp\Decoding\Decoding\bin\Debug\Decoding.exe.config
+C:\Temp\Decoding\Decoding\bin\Debug\Decoding.exe
+C:\Temp\Decoding\Decoding\bin\Debug\Decoding.pdb
+C:\Temp\Decoding\Decoding\obj\Debug\Decoding.csprojResolveAssemblyReference.cache
+C:\Temp\Decoding\Decoding\obj\Debug\Decoding.FrmDecoding.resources
+C:\Temp\Decoding\Decoding\obj\Debug\Decoding.Properties.Resources.resources
+C:\Temp\Decoding\Decoding\obj\Debug\Decoding.csproj.GenerateResource.Cache
+C:\Temp\Decoding\Decoding\obj\Debug\Decoding.exe
+C:\Temp\Decoding\Decoding\obj\Debug\Decoding.pdb

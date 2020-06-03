@@ -1,0 +1,8 @@
+bin\Debug\MessageBoxes.exe
+bin\Debug\MessageBoxes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MessageBoxes.Form1.resources
+obj\Debug\MessageBoxes.Properties.Resources.resources
+obj\Debug\MessageBoxes.csproj.GenerateResource.Cache
+obj\Debug\MessageBoxes.exe
+obj\Debug\MessageBoxes.pdb

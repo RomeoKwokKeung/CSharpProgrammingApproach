@@ -1,0 +1,13 @@
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Release\Avoid Armageddon.exe
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Release\Avoid Armageddon.pdb
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Release\Interop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\bin\Release\AxInterop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\ResolveAssemblyReference.cache
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\Interop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\AxInterop.WMPLib.dll
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\Avoid Armageddon.csproj.ResolveComReference.cache
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\Avoid_Armageddon.FrmArmageddon.resources
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\Avoid_Armageddon.Properties.Resources.resources
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\Avoid Armageddon.csproj.GenerateResource.Cache
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\Avoid Armageddon.exe
+h:\ICS 3U\Avoid Armageddon\Avoid Armageddon\obj\Release\Avoid Armageddon.pdb

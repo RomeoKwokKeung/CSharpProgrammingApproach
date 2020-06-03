@@ -1,0 +1,12 @@
+obj\Debug\SlotMachine.exe
+obj\Debug\SlotMachine.pdb
+bin\Debug\SlotMachine.exe
+bin\Debug\SlotMachine.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SlotMachine.FrmSlotMachine.resources
+obj\Debug\SlotMachine.Properties.Resources.resources
+obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SlotMachine.FrmSlotMachine.resources
+obj\Release\SlotMachine.Properties.Resources.resources
+obj\Release\SlotMachine.csproj.GenerateResource.Cache

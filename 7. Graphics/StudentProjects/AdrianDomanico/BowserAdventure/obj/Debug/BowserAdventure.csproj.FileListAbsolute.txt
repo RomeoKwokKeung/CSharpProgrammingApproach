@@ -1,0 +1,13 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\Interop.QTOControlLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\Interop.QTOLibrary.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\BowserAdventure.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\BowserAdventure.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\BowserAdventure.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\bin\Debug\BowserAdventure.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\bin\Debug\BowserAdventure.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\bin\Debug\Interop.QTOControlLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\bin\Debug\Interop.QTOLibrary.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\BowserAdventure.Intro.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\BowserAdventure.Main.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\BowserAdventure.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdrianDomanico\BowserAdventure\obj\Debug\BowserAdventure.csproj.GenerateResource.Cache

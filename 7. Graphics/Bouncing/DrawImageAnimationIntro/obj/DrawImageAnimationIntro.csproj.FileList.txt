@@ -1,0 +1,16 @@
+bin\Debug\DrawImageAnimationIntro.exe
+bin\Debug\DrawImageAnimationIntro.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DrawImageAnimationIntro.FrmDrawImage.resources
+obj\Debug\DrawImageAnimationIntro.Properties.Resources.resources
+obj\Debug\DrawImageAnimationIntro.csproj.GenerateResource.Cache
+obj\Debug\DrawImageAnimationIntro.exe
+obj\Debug\DrawImageAnimationIntro.pdb
+bin\Release\DrawImageAnimationIntro.exe
+bin\Release\DrawImageAnimationIntro.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DrawImageAnimationIntro.FrmDrawImage.resources
+obj\Release\DrawImageAnimationIntro.Properties.Resources.resources
+obj\Release\DrawImageAnimationIntro.csproj.GenerateResource.Cache
+obj\Release\DrawImageAnimationIntro.exe
+obj\Release\DrawImageAnimationIntro.pdb

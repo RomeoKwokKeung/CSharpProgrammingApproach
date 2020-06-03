@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\PriceQuote\PriceQuote\obj\Debug\PriceQuote.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\PriceQuote\PriceQuote\obj\Debug\PriceQuote.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\PriceQuote\PriceQuote\bin\Debug\PriceQuote.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\PriceQuote\PriceQuote\bin\Debug\PriceQuote.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\PriceQuote\PriceQuote\obj\Debug\PriceQuote.FrmPriceQuote.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\PriceQuote\PriceQuote\obj\Debug\PriceQuote.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\PriceQuote\PriceQuote\obj\Debug\PriceQuote.csproj.GenerateResource.Cache

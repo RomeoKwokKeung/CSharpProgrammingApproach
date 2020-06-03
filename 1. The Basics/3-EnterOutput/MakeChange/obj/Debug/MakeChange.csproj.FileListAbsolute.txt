@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\MakeChange\bin\Debug\MakeChange.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\MakeChange\bin\Debug\MakeChange.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\MakeChange\obj\Debug\MakeChange.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\MakeChange\obj\Debug\MakeChange.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\MakeChange\obj\Debug\MakeChange.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\MakeChange\obj\Debug\MakeChange.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\MakeChange\obj\Debug\MakeChange.pdb
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\3-EnterOutput\MakeChange\obj\Debug\MakeChange.exe
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\3-EnterOutput\MakeChange\obj\Debug\MakeChange.pdb

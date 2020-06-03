@@ -1,0 +1,9 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Dialog.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Form1.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.csproj.GenerateResource.Cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.pdb

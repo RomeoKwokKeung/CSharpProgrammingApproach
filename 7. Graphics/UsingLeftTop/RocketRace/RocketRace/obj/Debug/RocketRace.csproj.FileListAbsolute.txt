@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\RocketRace\RocketRace\obj\Debug\RocketRace.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\RocketRace\RocketRace\obj\Debug\RocketRace.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\RocketRace\RocketRace\bin\Debug\RocketRace.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\RocketRace\RocketRace\bin\Debug\RocketRace.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\RocketRace\RocketRace\obj\Debug\RocketRace.FrmRocketRace.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\RocketRace\RocketRace\obj\Debug\RocketRace.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\5-AnimationKeyboardEvents\UsingLeftTop\RocketRace\RocketRace\obj\Debug\RocketRace.csproj.GenerateResource.Cache

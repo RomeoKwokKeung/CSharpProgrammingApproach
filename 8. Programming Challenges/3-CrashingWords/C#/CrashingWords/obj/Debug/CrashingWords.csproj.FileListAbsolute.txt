@@ -1,0 +1,4 @@
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-CrashingWords\C#\CrashingWords\obj\Debug\CrashingWords.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-CrashingWords\C#\CrashingWords\obj\Debug\CrashingWords.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\3-CrashingWords\C#\CrashingWords\obj\Debug\CrashingWords.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\3-CrashingWords\C#\CrashingWords\obj\Debug\CrashingWords.pdb

@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ccpizza\ccpizza\obj\Debug\ccpizza.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ccpizza\ccpizza\obj\Debug\ccpizza.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ccpizza\ccpizza\bin\Debug\ccpizza.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ccpizza\ccpizza\bin\Debug\ccpizza.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ccpizza\ccpizza\obj\Debug\ccpizza.FrmPizza.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ccpizza\ccpizza\obj\Debug\ccpizza.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ccpizza\ccpizza\obj\Debug\ccpizza.csproj.GenerateResource.Cache

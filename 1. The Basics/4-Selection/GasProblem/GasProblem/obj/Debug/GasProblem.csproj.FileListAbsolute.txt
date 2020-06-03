@@ -1,0 +1,16 @@
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\obj\Debug\ResolveAssemblyReference.cache
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\obj\Debug\GasProblem.FrmGas.resources
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\obj\Debug\GasProblem.Properties.Resources.resources
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\obj\Debug\GasProblem.csproj.GenerateResource.Cache
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\bin\Debug\GasProblem.exe
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\bin\Debug\GasProblem.pdb
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\obj\Debug\GasProblem.exe
+\\puppis\users$\chiarellic\Courses\ics3uc\GasProblem\GasProblem\obj\Debug\GasProblem.pdb
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\obj\Debug\GasProblem.exe
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\obj\Debug\GasProblem.pdb
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\bin\Debug\GasProblem.exe
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\bin\Debug\GasProblem.pdb
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\obj\Debug\GasProblem.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\obj\Debug\GasProblem.FrmGas.resources
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\obj\Debug\GasProblem.Properties.Resources.resources
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\4-Selection\GasProblem\GasProblem\obj\Debug\GasProblem.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\obj\Debug\AgeHeight.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\obj\Debug\AgeHeight.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\bin\Debug\AgeHeight.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\bin\Debug\AgeHeight.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\obj\Debug\AgeHeight.FrmAgeHeight.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\obj\Debug\AgeHeight.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\obj\Debug\AgeHeight.UserInput.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\AgeHeight\AgeHeight\obj\Debug\AgeHeight.csproj.GenerateResource.Cache

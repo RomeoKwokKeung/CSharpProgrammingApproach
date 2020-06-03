@@ -1,0 +1,16 @@
+E:\C Sharp\TheGame\TheGame\bin\Release\TheGame.exe
+E:\C Sharp\TheGame\TheGame\bin\Release\TheGame.pdb
+E:\C Sharp\TheGame\TheGame\obj\Release\ResolveAssemblyReference.cache
+E:\C Sharp\TheGame\TheGame\obj\Release\TheGame.Game.resources
+E:\C Sharp\TheGame\TheGame\obj\Release\TheGame.Properties.Resources.resources
+E:\C Sharp\TheGame\TheGame\obj\Release\TheGame.csproj.GenerateResource.Cache
+E:\C Sharp\TheGame\TheGame\obj\Release\TheGame.exe
+E:\C Sharp\TheGame\TheGame\obj\Release\TheGame.pdb
+F:\C Sharp\TheGame\TheGame\bin\Release\TheGame.exe
+F:\C Sharp\TheGame\TheGame\bin\Release\TheGame.pdb
+F:\C Sharp\TheGame\TheGame\obj\Release\ResolveAssemblyReference.cache
+F:\C Sharp\TheGame\TheGame\obj\Release\TheGame.Game.resources
+F:\C Sharp\TheGame\TheGame\obj\Release\TheGame.Properties.Resources.resources
+F:\C Sharp\TheGame\TheGame\obj\Release\TheGame.csproj.GenerateResource.Cache
+F:\C Sharp\TheGame\TheGame\obj\Release\TheGame.exe
+F:\C Sharp\TheGame\TheGame\obj\Release\TheGame.pdb

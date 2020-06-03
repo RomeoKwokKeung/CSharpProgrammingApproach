@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\obj\Debug\DiceRollerHistogram.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\obj\Debug\DiceRollerHistogram.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\bin\Debug\DiceRollerHistogram.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\bin\Debug\DiceRollerHistogram.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\obj\Debug\DiceRollerHistogram.FrmDiceRollerHistogram.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\obj\Debug\DiceRollerHistogram.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\2-BarCharts\DiceRollerHistogram\DiceRollerHistogram\obj\Debug\DiceRollerHistogram.csproj.GenerateResource.Cache

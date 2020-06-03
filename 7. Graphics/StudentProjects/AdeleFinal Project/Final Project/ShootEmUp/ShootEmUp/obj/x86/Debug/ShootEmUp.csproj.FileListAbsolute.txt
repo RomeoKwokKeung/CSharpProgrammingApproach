@@ -1,0 +1,42 @@
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.FrmMain.resources
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.Properties.Resources.resources
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.exe
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.pdb
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.exe
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.pdb
+C:\Users\user\Desktop\ICS3UE\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.FrmHighscore.resources
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Interop.WMPLib.dll
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\AxInterop.WMPLib.dll
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csproj.ResolveComReference.cache
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.exe
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.pdb
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.exe
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.pdb
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\Interop.WMPLib.dll
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\AxInterop.WMPLib.dll
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.FrmHighscore.resources
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.frmMain.resources
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.Properties.Resources.resources
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\GenerateResource.read.1.tlog
+W:\Downloads\ics3ue\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\ShootEmUp.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.FrmHighscore.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.frmMain.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\Shooter.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\AdeleFinal Project\Final Project\ShootEmUp\ShootEmUp\obj\x86\Debug\ShootEmUp.csproj.GenerateResource.Cache

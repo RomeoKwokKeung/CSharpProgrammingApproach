@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Sandwich\obj\Debug\Sandwich.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Sandwich\obj\Debug\Sandwich.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Sandwich\bin\Debug\Sandwich.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Sandwich\bin\Debug\Sandwich.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Sandwich\obj\Debug\Sandwich.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Sandwich\obj\Debug\Sandwich.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\Sandwich\obj\Debug\Sandwich.csproj.GenerateResource.Cache

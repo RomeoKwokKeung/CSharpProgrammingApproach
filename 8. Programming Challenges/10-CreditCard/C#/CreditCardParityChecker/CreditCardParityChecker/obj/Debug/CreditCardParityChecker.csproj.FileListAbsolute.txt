@@ -1,0 +1,9 @@
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\bin\Debug\CreditCardParityChecker.exe.config
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\bin\Debug\CreditCardParityChecker.exe
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\bin\Debug\CreditCardParityChecker.pdb
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\obj\Debug\CreditCardParityChecker.csprojResolveAssemblyReference.cache
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\obj\Debug\CreditCardParityChecker.FrmParity.resources
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\obj\Debug\CreditCardParityChecker.Properties.Resources.resources
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\obj\Debug\CreditCardParityChecker.csproj.GenerateResource.Cache
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\obj\Debug\CreditCardParityChecker.exe
+C:\Temp\CreditCardParityChecker\CreditCardParityChecker\obj\Debug\CreditCardParityChecker.pdb

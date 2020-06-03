@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\obj\Debug\FlipBook.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\8-Graphics\C#\5-AnimationKeyboardEvents\UsingLeftTop\MovingFlipBook\FlipBook\obj\Debug\FlipBook.pdb

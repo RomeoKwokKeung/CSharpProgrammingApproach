@@ -1,0 +1,10 @@
+C:\Temp\Shifty\Shifty\bin\Debug\Shifty.exe.config
+C:\Temp\Shifty\Shifty\bin\Debug\Shifty.exe
+C:\Temp\Shifty\Shifty\bin\Debug\Shifty.pdb
+C:\Temp\Shifty\Shifty\obj\Debug\Shifty.csprojAssemblyReference.cache
+C:\Temp\Shifty\Shifty\obj\Debug\Shifty.FrmShifty.resources
+C:\Temp\Shifty\Shifty\obj\Debug\Shifty.Properties.Resources.resources
+C:\Temp\Shifty\Shifty\obj\Debug\Shifty.csproj.GenerateResource.cache
+C:\Temp\Shifty\Shifty\obj\Debug\Shifty.csproj.CoreCompileInputs.cache
+C:\Temp\Shifty\Shifty\obj\Debug\Shifty.exe
+C:\Temp\Shifty\Shifty\obj\Debug\Shifty.pdb

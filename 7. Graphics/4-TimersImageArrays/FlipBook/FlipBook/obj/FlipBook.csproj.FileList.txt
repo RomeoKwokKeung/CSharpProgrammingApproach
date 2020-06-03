@@ -1,0 +1,8 @@
+bin\Debug\FlipBook.exe
+bin\Debug\FlipBook.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FlipBook.FrmFlipBook.resources
+obj\Debug\FlipBook.Properties.Resources.resources
+obj\Debug\FlipBook.csproj.GenerateResource.Cache
+obj\Debug\FlipBook.exe
+obj\Debug\FlipBook.pdb

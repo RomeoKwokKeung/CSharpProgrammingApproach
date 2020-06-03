@@ -1,0 +1,10 @@
+C:\Temp\Telemarketers\Telemarketers\bin\Debug\Telemarketers.exe.config
+C:\Temp\Telemarketers\Telemarketers\bin\Debug\Telemarketers.exe
+C:\Temp\Telemarketers\Telemarketers\bin\Debug\Telemarketers.pdb
+C:\Temp\Telemarketers\Telemarketers\obj\Debug\Telemarketers.csprojAssemblyReference.cache
+C:\Temp\Telemarketers\Telemarketers\obj\Debug\Telemarketers.FrmTele.resources
+C:\Temp\Telemarketers\Telemarketers\obj\Debug\Telemarketers.Properties.Resources.resources
+C:\Temp\Telemarketers\Telemarketers\obj\Debug\Telemarketers.csproj.GenerateResource.cache
+C:\Temp\Telemarketers\Telemarketers\obj\Debug\Telemarketers.csproj.CoreCompileInputs.cache
+C:\Temp\Telemarketers\Telemarketers\obj\Debug\Telemarketers.exe
+C:\Temp\Telemarketers\Telemarketers\obj\Debug\Telemarketers.pdb

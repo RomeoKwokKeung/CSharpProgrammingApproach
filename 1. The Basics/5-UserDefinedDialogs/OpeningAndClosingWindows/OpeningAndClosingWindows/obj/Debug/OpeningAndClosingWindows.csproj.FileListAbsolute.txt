@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\obj\Debug\OpeningAndClosingWindows.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\obj\Debug\OpeningAndClosingWindows.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\bin\Debug\OpeningAndClosingWindows.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\bin\Debug\OpeningAndClosingWindows.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\obj\Debug\OpeningAndClosingWindows.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\obj\Debug\OpeningAndClosingWindows.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\obj\Debug\OpeningAndClosingWindows.SecondWindow.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\OpeningAndClosingWindows\OpeningAndClosingWindows\obj\Debug\OpeningAndClosingWindows.csproj.GenerateResource.Cache

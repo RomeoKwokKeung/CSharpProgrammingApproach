@@ -1,0 +1,16 @@
+C:\Temp\AddTimes\AddTimes\bin\Debug\AddTimes.exe
+C:\Temp\AddTimes\AddTimes\bin\Debug\AddTimes.pdb
+C:\Temp\AddTimes\AddTimes\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\AddTimes\AddTimes\obj\Debug\AddTimes.FrmAddTimes.resources
+C:\Temp\AddTimes\AddTimes\obj\Debug\AddTimes.Properties.Resources.resources
+C:\Temp\AddTimes\AddTimes\obj\Debug\AddTimes.csproj.GenerateResource.Cache
+C:\Temp\AddTimes\AddTimes\obj\Debug\AddTimes.exe
+C:\Temp\AddTimes\AddTimes\obj\Debug\AddTimes.pdb
+C:\Temp\2012\FinalFour\Problem1\AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.exe
+C:\Temp\2012\FinalFour\Problem1\AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2012\FinalFour\Problem1\AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2012\FinalFour\Problem1\AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\3-AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\3-AddTimes\C#\AddTimes\AddTimes\obj\Debug\AddTimes.pdb

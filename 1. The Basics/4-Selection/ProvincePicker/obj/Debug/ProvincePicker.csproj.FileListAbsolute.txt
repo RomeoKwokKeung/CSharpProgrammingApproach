@@ -1,0 +1,2 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ProvincePicker\obj\Debug\SwitchApp.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\ProvincePicker\obj\Debug\SwitchApp.pdb

@@ -1,0 +1,15 @@
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\bin\Release\FirstOOPdemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\bin\Release\FirstOOPdemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.FrmTester.resources
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\bin\Release\FirstOOPdemo.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\bin\Release\FirstOOPdemo.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.FrmTester.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\1-IntroductoryExamples\FirstOOPdemo\FirstOOPdemo\obj\Release\FirstOOPdemo.pdb

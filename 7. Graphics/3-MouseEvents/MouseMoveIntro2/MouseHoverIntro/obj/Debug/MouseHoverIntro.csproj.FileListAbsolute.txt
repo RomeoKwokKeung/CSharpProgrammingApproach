@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro2\MouseHoverIntro\obj\Debug\MouseHoverIntro.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro2\MouseHoverIntro\obj\Debug\MouseHoverIntro.pdb
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro2\MouseHoverIntro\bin\Debug\MouseHoverIntro.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro2\MouseHoverIntro\bin\Debug\MouseHoverIntro.pdb
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro2\MouseHoverIntro\obj\Debug\MouseHoverIntro.FrmMouseHover.resources
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro2\MouseHoverIntro\obj\Debug\MouseHoverIntro.Properties.Resources.resources
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro2\MouseHoverIntro\obj\Debug\MouseHoverIntro.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestPartA.FrmTestPartA.resources
+obj\Debug\TestPartA.Properties.Resources.resources
+obj\Debug\TestPartA.csproj.GenerateResource.Cache
+bin\Debug\TestPartA.exe
+bin\Debug\TestPartA.pdb
+obj\Debug\TestPartA.exe
+obj\Debug\TestPartA.pdb

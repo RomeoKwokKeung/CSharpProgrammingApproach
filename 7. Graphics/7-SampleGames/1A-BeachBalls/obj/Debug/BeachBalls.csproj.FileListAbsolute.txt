@@ -1,0 +1,6 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\1-BeachBalls\obj\Debug\BeachBalls.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\1-BeachBalls\obj\Debug\BeachBalls.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\1-BeachBalls\bin\Debug\BeachBalls.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\1-BeachBalls\bin\Debug\BeachBalls.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\1-BeachBalls\obj\Debug\BeachBalls.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\1-BeachBalls\obj\Debug\BeachBalls.csproj.GenerateResource.Cache

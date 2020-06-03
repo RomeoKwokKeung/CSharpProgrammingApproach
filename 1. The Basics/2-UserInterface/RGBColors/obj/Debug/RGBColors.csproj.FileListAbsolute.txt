@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\2-UserInterface\RGBColors\obj\Debug\RGBColors.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\2-UserInterface\RGBColors\obj\Debug\RGBColors.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\2-UserInterface\RGBColors\bin\Debug\RGBColors.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\2-UserInterface\RGBColors\bin\Debug\RGBColors.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\2-UserInterface\RGBColors\obj\Debug\RGBColors.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\2-UserInterface\RGBColors\obj\Debug\RGBColors.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\2-UserInterface\RGBColors\obj\Debug\RGBColors.csproj.GenerateResource.Cache

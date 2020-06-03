@@ -1,0 +1,8 @@
+bin\Debug\Pizza.exe
+bin\Debug\Pizza.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Pizza.Properties.Resources.resources
+obj\Debug\Pizza.csproj.GenerateResource.Cache
+obj\Debug\Pizza.exe
+obj\Debug\Pizza.pdb
+obj\Debug\Pizza.FrmPizza.resources

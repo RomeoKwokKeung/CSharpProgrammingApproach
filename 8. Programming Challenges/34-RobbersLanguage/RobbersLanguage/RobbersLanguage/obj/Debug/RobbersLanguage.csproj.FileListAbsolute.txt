@@ -1,0 +1,10 @@
+C:\Temp\RobbersLanguage\RobbersLanguage\bin\Debug\RobbersLanguage.exe.config
+C:\Temp\RobbersLanguage\RobbersLanguage\bin\Debug\RobbersLanguage.exe
+C:\Temp\RobbersLanguage\RobbersLanguage\bin\Debug\RobbersLanguage.pdb
+C:\Temp\RobbersLanguage\RobbersLanguage\obj\Debug\RobbersLanguage.csprojAssemblyReference.cache
+C:\Temp\RobbersLanguage\RobbersLanguage\obj\Debug\RobbersLanguage.FrmRobbers.resources
+C:\Temp\RobbersLanguage\RobbersLanguage\obj\Debug\RobbersLanguage.Properties.Resources.resources
+C:\Temp\RobbersLanguage\RobbersLanguage\obj\Debug\RobbersLanguage.csproj.GenerateResource.cache
+C:\Temp\RobbersLanguage\RobbersLanguage\obj\Debug\RobbersLanguage.csproj.CoreCompileInputs.cache
+C:\Temp\RobbersLanguage\RobbersLanguage\obj\Debug\RobbersLanguage.exe
+C:\Temp\RobbersLanguage\RobbersLanguage\obj\Debug\RobbersLanguage.pdb

@@ -1,0 +1,6 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\4-Selection\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache

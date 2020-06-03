@@ -1,0 +1,16 @@
+obj\Debug\MouseHoverIntro.exe
+obj\Debug\MouseHoverIntro.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MouseHoverIntro.FrmMouseHover.resources
+obj\Debug\MouseHoverIntro.Properties.Resources.resources
+obj\Debug\MouseHoverIntro.csproj.GenerateResource.Cache
+bin\Debug\MouseHoverIntro.exe
+bin\Debug\MouseHoverIntro.pdb
+bin\Release\MouseHoverIntro.exe
+bin\Release\MouseHoverIntro.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MouseHoverIntro.FrmMouseHover.resources
+obj\Release\MouseHoverIntro.Properties.Resources.resources
+obj\Release\MouseHoverIntro.csproj.GenerateResource.Cache
+obj\Release\MouseHoverIntro.exe
+obj\Release\MouseHoverIntro.pdb

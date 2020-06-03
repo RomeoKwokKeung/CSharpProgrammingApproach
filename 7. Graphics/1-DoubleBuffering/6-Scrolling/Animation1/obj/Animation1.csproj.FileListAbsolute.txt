@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\obj\Debug\Animation1.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\obj\Debug\Animation1.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\bin\Debug\Animation1.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\bin\Debug\Animation1.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\obj\Debug\Animation1.FrmAnimation.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\obj\Debug\Animation1.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\12-AdvancedGraphics\C#\7-AdvancedGraphics\1-DoubleBuffering\Scrolling\Animation1\obj\Debug\Animation1.csproj.GenerateResource.Cache

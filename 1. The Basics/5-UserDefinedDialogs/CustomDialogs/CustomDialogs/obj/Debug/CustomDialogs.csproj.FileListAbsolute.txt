@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Dialog.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.csproj.GenerateResource.Cache

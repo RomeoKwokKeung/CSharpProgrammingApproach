@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PriceQuote.FrmPriceQuote.resources
+obj\Debug\PriceQuote.Properties.Resources.resources
+obj\Debug\PriceQuote.csproj.GenerateResource.Cache
+bin\Debug\PriceQuote.exe
+bin\Debug\PriceQuote.pdb
+obj\Debug\PriceQuote.exe
+obj\Debug\PriceQuote.pdb

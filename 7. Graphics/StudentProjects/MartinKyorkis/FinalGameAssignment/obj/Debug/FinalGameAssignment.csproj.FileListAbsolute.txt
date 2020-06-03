@@ -1,0 +1,88 @@
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\bin\Debug\FinalGameAssignment.pdb
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmGame.resources
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\obj\Debug\FinalGameAssignment.Properties.Resources.resources
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.GenerateResource.Cache
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\obj\Debug\FinalGameAssignment.exe
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\obj\Debug\FinalGameAssignment.pdb
+C:\Documents and Settings\kyorkisma275\Local Settings\Application Data\Temporary Projects\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmStart.resources
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.exe
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.pdb
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.pdb
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\ResolveAssemblyReference.cache
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmGame.resources
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmStart.resources
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.Properties.Resources.resources
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.GenerateResource.Cache
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.WMPLib.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\AxInterop.WMPLib.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.ResolveComReference.cache
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.WMPLib.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\AxInterop.WMPLib.dll
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.WMPLib.dll
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\AxInterop.WMPLib.dll
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.ResolveComReference.cache
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.exe
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.pdb
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.pdb
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.WMPLib.dll
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\AxInterop.WMPLib.dll
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\ResolveAssemblyReference.cache
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmGame.resources
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmStart.resources
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.Properties.Resources.resources
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.GenerateResource.Cache
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.ResEdit6.dll
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.VBA.dll
+E:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.VBIDE.dll
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.ResEdit6.dll
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.VBA.dll
+E:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.VBIDE.dll
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.VBA.dll
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.WMPLib.dll
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\AxInterop.WMPLib.dll
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.ResolveComReference.cache
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.exe
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.pdb
+F:\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe
+F:\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.pdb
+F:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.VBA.dll
+F:\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.WMPLib.dll
+F:\FinalGameAssignment\FinalGameAssignment\bin\Debug\AxInterop.WMPLib.dll
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\ResolveAssemblyReference.cache
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmGame.resources
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmStart.resources
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.Properties.Resources.resources
+F:\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.GenerateResource.Cache
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.Microsoft.Office.Core.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.ResEdit6.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.VBA.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\obj\Debug\Interop.VBIDE.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.Microsoft.Office.Core.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.ResEdit6.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.VBA.dll
+h:\ICS3U1\Assignments\FinalGameAssignment\FinalGameAssignment\bin\Debug\Interop.VBIDE.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\Interop.VBA.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\FinalGameAssignment.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\FinalGameAssignment.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\bin\Debug\FinalGameAssignment.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\bin\Debug\Interop.VBA.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmGame.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\FinalGameAssignment.FrmStart.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\FinalGameAssignment.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinKyorkis\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.GenerateResource.Cache

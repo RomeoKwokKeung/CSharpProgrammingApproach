@@ -1,0 +1,8 @@
+bin\Debug\Animation1.exe
+bin\Debug\Animation1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Animation1.FrmAnimation.resources
+obj\Debug\Animation1.Properties.Resources.resources
+obj\Debug\Animation1.csproj.GenerateResource.Cache
+obj\Debug\Animation1.exe
+obj\Debug\Animation1.pdb

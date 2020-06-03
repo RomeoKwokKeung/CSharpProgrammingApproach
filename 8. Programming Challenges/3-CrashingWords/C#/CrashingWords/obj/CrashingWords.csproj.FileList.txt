@@ -1,0 +1,8 @@
+bin\Debug\CrashingWords.exe
+bin\Debug\CrashingWords.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CrashingWords.FrmCrashWords.resources
+obj\Debug\CrashingWords.Properties.Resources.resources
+obj\Debug\CrashingWords.csproj.GenerateResource.Cache
+obj\Debug\CrashingWords.exe
+obj\Debug\CrashingWords.pdb

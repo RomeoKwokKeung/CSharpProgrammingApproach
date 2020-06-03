@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\ProblemSolving\ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Temp\UdemyC#\SectionsLectures\ProblemSolving\ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.pdb

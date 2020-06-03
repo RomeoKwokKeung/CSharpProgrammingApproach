@@ -1,0 +1,8 @@
+obj\Debug\Sandwich.exe
+obj\Debug\Sandwich.pdb
+.\bin\Debug\Sandwich.exe
+.\bin\Debug\Sandwich.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sandwich.Form1.resources
+obj\Debug\Sandwich.Properties.Resources.resources
+obj\Debug\Sandwich.csproj.GenerateResource.Cache

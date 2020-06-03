@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\DiceRollProblem\DiceRollProblem\obj\Debug\DiceRollProblem.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\DiceRollProblem\DiceRollProblem\obj\Debug\DiceRollProblem.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\DiceRollProblem\DiceRollProblem\bin\Debug\DiceRollProblem.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\DiceRollProblem\DiceRollProblem\bin\Debug\DiceRollProblem.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\DiceRollProblem\DiceRollProblem\obj\Debug\DiceRollProblem.FrmDiceRollProblem.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\DiceRollProblem\DiceRollProblem\obj\Debug\DiceRollProblem.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\DiceRollProblem\DiceRollProblem\obj\Debug\DiceRollProblem.csproj.GenerateResource.Cache

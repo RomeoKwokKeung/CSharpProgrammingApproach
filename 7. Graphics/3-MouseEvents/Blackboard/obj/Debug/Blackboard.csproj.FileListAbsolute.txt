@@ -1,0 +1,6 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\Blackboard\obj\Debug\Blackboard.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\Blackboard\obj\Debug\Blackboard.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\Blackboard\bin\Debug\Blackboard.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\Blackboard\bin\Debug\Blackboard.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\Blackboard\obj\Debug\Blackboard.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\3-MouseEvents\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache

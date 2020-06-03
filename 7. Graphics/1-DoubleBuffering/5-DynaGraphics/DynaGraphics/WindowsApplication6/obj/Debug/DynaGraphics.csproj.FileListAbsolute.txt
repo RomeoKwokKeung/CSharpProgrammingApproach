@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\obj\Debug\DynaGraphics.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\obj\Debug\DynaGraphics.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\bin\Debug\DynaGraphics.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\bin\Debug\DynaGraphics.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\obj\Debug\DynaGraphics.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\obj\Debug\DynaGraphics.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\obj\Debug\DynaGraphics.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\obj\Debug\DynaGraphics.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\8-AdvancedGraphics\1-DoubleBuffering\5-DynaGraphics\DynaGraphics\WindowsApplication6\obj\Debug\DynaGraphics.pdb

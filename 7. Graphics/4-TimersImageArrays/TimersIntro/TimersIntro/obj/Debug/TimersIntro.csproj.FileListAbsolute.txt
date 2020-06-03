@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\TimersIntro\TimersIntro\obj\Debug\TimersIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\TimersIntro\TimersIntro\obj\Debug\TimersIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\TimersIntro\TimersIntro\bin\Debug\TimersIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\TimersIntro\TimersIntro\bin\Debug\TimersIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\TimersIntro\TimersIntro\obj\Debug\TimersIntro.FrmTimersIntro.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\TimersIntro\TimersIntro\obj\Debug\TimersIntro.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\TimersIntro\TimersIntro\obj\Debug\TimersIntro.csproj.GenerateResource.Cache

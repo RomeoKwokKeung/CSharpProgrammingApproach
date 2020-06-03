@@ -1,0 +1,8 @@
+obj\Debug\FormFun.exe
+obj\Debug\FormFun.pdb
+.\bin\Debug\FormFun.exe
+.\bin\Debug\FormFun.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FormFun.Properties.Resources.resources
+obj\Debug\FormFun.csproj.GenerateResource.Cache
+obj\Debug\FormFun.Form1.resources

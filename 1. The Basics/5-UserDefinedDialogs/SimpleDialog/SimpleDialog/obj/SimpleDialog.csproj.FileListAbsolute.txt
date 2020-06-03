@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.pdb

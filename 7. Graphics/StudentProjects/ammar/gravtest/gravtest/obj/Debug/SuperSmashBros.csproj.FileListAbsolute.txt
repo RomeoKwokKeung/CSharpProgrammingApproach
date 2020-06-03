@@ -1,0 +1,38 @@
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\gravtest.pdb
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\Interop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\bin\Debug\AxInterop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\Interop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\AxInterop.WMPLib.dll
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\SuperSmashBros.csproj.ResolveComReference.cache
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\SuperSmashBros.csproj.GenerateResource.Cache
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.exe
+E:\Documents\School\Programming\ISU complete\gravtest\gravtest\obj\Debug\gravtest.pdb
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\Interop.WMPLib.dll
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\AxInterop.WMPLib.dll
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\SuperSmashBros.csproj.ResolveComReference.cache
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\gravtest.exe
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\gravtest.pdb
+H:\fcdownload\ammargravtest\gravtest\gravtest\bin\Debug\gravtest.exe
+H:\fcdownload\ammargravtest\gravtest\gravtest\bin\Debug\gravtest.pdb
+H:\fcdownload\ammargravtest\gravtest\gravtest\bin\Debug\Interop.WMPLib.dll
+H:\fcdownload\ammargravtest\gravtest\gravtest\bin\Debug\AxInterop.WMPLib.dll
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\ResolveAssemblyReference.cache
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+H:\fcdownload\ammargravtest\gravtest\gravtest\obj\Debug\SuperSmashBros.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\SuperSmashBros.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\gravtest.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\gravtest.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\bin\Debug\gravtest.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\bin\Debug\gravtest.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\gravtest.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\gravtest.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\ammar\gravtest\gravtest\obj\Debug\SuperSmashBros.csproj.GenerateResource.Cache

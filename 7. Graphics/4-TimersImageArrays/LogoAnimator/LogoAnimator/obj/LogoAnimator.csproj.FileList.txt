@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LogoAnimator.FrmLogoAnimator.resources
+obj\Debug\LogoAnimator.Properties.Resources.resources
+obj\Debug\LogoAnimator.csproj.GenerateResource.Cache
+bin\Debug\LogoAnimator.exe
+bin\Debug\LogoAnimator.pdb
+obj\Debug\LogoAnimator.exe
+obj\Debug\LogoAnimator.pdb

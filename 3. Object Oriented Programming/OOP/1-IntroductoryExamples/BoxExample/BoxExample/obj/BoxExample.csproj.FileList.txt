@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BoxExample.FrmBoxTester.resources
+obj\Debug\BoxExample.Properties.Resources.resources
+obj\Debug\BoxExample.csproj.GenerateResource.Cache
+bin\Debug\BoxExample.exe
+bin\Debug\BoxExample.pdb
+obj\Debug\BoxExample.exe
+obj\Debug\BoxExample.pdb

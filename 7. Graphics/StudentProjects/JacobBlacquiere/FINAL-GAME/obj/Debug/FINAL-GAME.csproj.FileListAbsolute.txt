@@ -1,0 +1,54 @@
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\bin\Debug\FINAL-GAME.exe
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\bin\Debug\FINAL-GAME.pdb
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.exe
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.pdb
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.exe
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.pdb
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\ResolveAssemblyReference.cache
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.Properties.Resources.resources
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.csproj.GenerateResource.Cache
+H:\FINAL-GAME\FINAL-GAME\bin\Debug\FINAL-GAME.exe
+H:\FINAL-GAME\FINAL-GAME\bin\Debug\FINAL-GAME.pdb
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.exe
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.pdb
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\bin\Debug\FINAL-GAME.exe
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\bin\Debug\FINAL-GAME.pdb
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.Form1.resources
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FormMain.resources
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Desktop\Jacob\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FormInstruct.resources
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FrmInstruct.resources
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FrmMain.resources
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FrmGame.resources
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FrmGame.resources
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FrmInstruct.resources
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL_GAME.FrmMain.resources
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Owner\Desktop\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.csproj.ResolveComReference.cache
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\Interop.WMPLib.dll
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\AxInterop.WMPLib.dll
+H:\FINAL-GAME\FINAL-GAME\obj\Debug\FINAL-GAME.csproj.ResolveComReference.cache
+H:\FINAL-GAME\FINAL-GAME\bin\Debug\Interop.WMPLib.dll
+H:\FINAL-GAME\FINAL-GAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL-GAME.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL-GAME.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL-GAME.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\bin\Debug\FINAL-GAME.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\bin\Debug\FINAL-GAME.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL_GAME.FrmGame.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL_GAME.FrmInstruct.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL_GAME.FrmMain.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL_GAME.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\JacobBlacquiere\FINAL-GAME\obj\Debug\FINAL-GAME.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+\\puppis\users$\chiarellic\fcdownload\Good\Good\obj\Debug\ResolveAssemblyReference.cache
+\\puppis\users$\chiarellic\fcdownload\Good\Good\obj\Debug\Good.FrmGood.resources
+\\puppis\users$\chiarellic\fcdownload\Good\Good\obj\Debug\Good.Properties.Resources.resources
+\\puppis\users$\chiarellic\fcdownload\Good\Good\obj\Debug\Good.csproj.GenerateResource.Cache
+\\puppis\users$\chiarellic\fcdownload\Good\Good\bin\Debug\Good.exe
+\\puppis\users$\chiarellic\fcdownload\Good\Good\bin\Debug\Good.pdb
+\\puppis\users$\chiarellic\fcdownload\Good\Good\obj\Debug\Good.exe
+\\puppis\users$\chiarellic\fcdownload\Good\Good\obj\Debug\Good.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2014\FinalFour\Problem2\ItsAllGood\C#\Good\Good\obj\Debug\Good.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2014\FinalFour\Problem2\ItsAllGood\C#\Good\Good\obj\Debug\Good.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\7-ItsAllGood\C#\Good\Good\obj\Debug\Good.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\7-ItsAllGood\C#\Good\Good\obj\Debug\Good.pdb

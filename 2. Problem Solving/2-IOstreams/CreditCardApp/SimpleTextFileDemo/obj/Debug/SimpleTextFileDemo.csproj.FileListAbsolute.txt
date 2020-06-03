@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\CreditCardApp\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\CreditCardApp\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb

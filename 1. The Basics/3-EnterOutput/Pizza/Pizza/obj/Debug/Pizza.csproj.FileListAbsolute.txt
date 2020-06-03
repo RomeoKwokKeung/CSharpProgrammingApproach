@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\obj\Debug\Pizza.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\obj\Debug\Pizza.FrmPizza.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.Cache

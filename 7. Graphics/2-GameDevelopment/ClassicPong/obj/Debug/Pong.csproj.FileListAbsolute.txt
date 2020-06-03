@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\obj\Debug\Pong.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\obj\Debug\Pong.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\bin\Debug\Pong.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\bin\Debug\Pong.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\obj\Debug\Pong.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\obj\Debug\Pong.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\obj\Debug\Pong.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\obj\Debug\Pong.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\7-SampleGames\3-OtherAnimationBasedGames\ClassicPong\obj\Debug\Pong.pdb

@@ -1,0 +1,24 @@
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.exe
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\2-IntermediateExamples\TempAgency\bin\Debug\PayRollApp.exe
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\2-IntermediateExamples\TempAgency\bin\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.TempAgencyForm.resources
+C:\Temp\UdemyC#\C#CourseUnits\3-OOPs\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\OOP\OOPs\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.exe
+C:\Temp\UdemyC#\SectionsLectures\OOP\OOPs\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.pdb
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\bin\Debug\PayRollApp.exe
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\bin\Debug\PayRollApp.pdb
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.TempAgencyForm.resources
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.exe
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\bin\Debug\PayRollApp.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\bin\Debug\PayRollApp.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.TempAgencyForm.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\3. Object Oriented Programming\OOP\2-IntermediateExamples\TempAgency\obj\Debug\PayRollApp.pdb

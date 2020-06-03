@@ -1,0 +1,8 @@
+obj\Debug\DiceRoll.exe
+obj\Debug\DiceRoll.pdb
+.\bin\Debug\DiceRoll.exe
+.\bin\Debug\DiceRoll.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DiceRoll.Properties.Resources.resources
+obj\Debug\DiceRoll.csproj.GenerateResource.Cache
+obj\Debug\DiceRoll.Form1.resources

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleMethods.FrmSimpleMethods.resources
+obj\Debug\SimpleMethods.Properties.Resources.resources
+obj\Debug\SimpleMethods.csproj.GenerateResource.Cache
+bin\Debug\SimpleMethods.exe
+bin\Debug\SimpleMethods.pdb
+obj\Debug\SimpleMethods.exe
+obj\Debug\SimpleMethods.pdb

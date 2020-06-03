@@ -1,0 +1,14 @@
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\bin\Debug\CanDoBetter.exe
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\bin\Debug\CanDoBetter.pdb
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\obj\Debug\ResolveAssemblyReference.cache
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.FrmDoBetter.resources
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.Properties.Resources.resources
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.csproj.GenerateResource.Cache
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.exe
+\\puppis\users$\chiarellic\Courses\Programmania\FinalFour2015\FinalFour2015\Problem1\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2015\FinalFour2015\Problem1\DoBetter\C#\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2015\FinalFour2015\Problem1\DoBetter\C#\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-DoBetter\C#\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-DoBetter\C#\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\2-DoBetter\C#\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.exe
+C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\2-DoBetter\C#\CanDoBetter\CanDoBetter\obj\Debug\CanDoBetter.pdb

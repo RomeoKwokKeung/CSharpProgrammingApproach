@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstOOPdemo.FrmTester.resources
+obj\Debug\FirstOOPdemo.Properties.Resources.resources
+obj\Debug\FirstOOPdemo.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FirstOOPdemo.FrmTester.resources
+obj\Release\FirstOOPdemo.Properties.Resources.resources
+obj\Release\FirstOOPdemo.csproj.GenerateResource.Cache
+bin\Debug\FirstOOPdemo.exe
+bin\Debug\FirstOOPdemo.pdb
+obj\Debug\FirstOOPdemo.exe
+obj\Debug\FirstOOPdemo.pdb
+bin\Release\FirstOOPdemo.exe
+bin\Release\FirstOOPdemo.pdb
+obj\Release\FirstOOPdemo.exe
+obj\Release\FirstOOPdemo.pdb

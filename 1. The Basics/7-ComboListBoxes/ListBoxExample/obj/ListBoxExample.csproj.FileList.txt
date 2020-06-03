@@ -1,0 +1,7 @@
+obj\Debug\ListBoxExample.exe
+obj\Debug\ListBoxExample.pdb
+bin\Debug\ListBoxExample.exe
+bin\Debug\ListBoxExample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ListBoxExample.ClubForm.resources
+obj\Debug\ListBoxExample.csproj.GenerateResource.Cache

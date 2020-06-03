@@ -1,0 +1,10 @@
+L:\Chiarelli\ics3m1\CourseUnits\1-C#CourseUnits\6-Arrays\C#\OneDimensional\Introduction\ArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
+L:\Chiarelli\ics3m1\CourseUnits\1-C#CourseUnits\6-Arrays\C#\OneDimensional\Introduction\ArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb
+C:\Temp\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
+C:\Temp\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb
+C:\Temp\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.exe
+C:\Temp\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.pdb
+C:\Temp\SimpleArrayIntro\ArrayIntro\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.FrmArrayIntro.resources
+C:\Temp\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Temp\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csproj.GenerateResource.Cache

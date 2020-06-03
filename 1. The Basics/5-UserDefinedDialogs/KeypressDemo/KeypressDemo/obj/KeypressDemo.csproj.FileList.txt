@@ -1,0 +1,8 @@
+obj\Debug\KeypressDemo.exe
+obj\Debug\KeypressDemo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KeypressDemo.Form1.resources
+obj\Debug\KeypressDemo.Properties.Resources.resources
+obj\Debug\KeypressDemo.csproj.GenerateResource.Cache
+bin\Debug\KeypressDemo.exe
+bin\Debug\KeypressDemo.pdb

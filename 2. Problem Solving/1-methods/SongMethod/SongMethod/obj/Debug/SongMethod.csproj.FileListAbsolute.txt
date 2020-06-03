@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SongMethod\SongMethod\obj\Debug\SongMethod.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SongMethod\SongMethod\obj\Debug\SongMethod.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SongMethod\SongMethod\bin\Debug\SongMethod.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SongMethod\SongMethod\bin\Debug\SongMethod.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SongMethod\SongMethod\obj\Debug\SongMethod.FrmSongMethod.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SongMethod\SongMethod\obj\Debug\SongMethod.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SongMethod\SongMethod\obj\Debug\SongMethod.csproj.GenerateResource.Cache

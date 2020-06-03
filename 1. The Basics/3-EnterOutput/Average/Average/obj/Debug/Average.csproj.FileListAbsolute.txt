@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\obj\Debug\Average.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\obj\Debug\Average.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\bin\Debug\Average.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\bin\Debug\Average.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\obj\Debug\WindowsApplication1.FrmVBinput.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\Average\Average\obj\Debug\Average.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+bin\Debug\SongMethod.exe
+bin\Debug\SongMethod.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SongMethod.FrmSongMethod.resources
+obj\Debug\SongMethod.Properties.Resources.resources
+obj\Debug\SongMethod.csproj.GenerateResource.Cache
+obj\Debug\SongMethod.exe
+obj\Debug\SongMethod.pdb

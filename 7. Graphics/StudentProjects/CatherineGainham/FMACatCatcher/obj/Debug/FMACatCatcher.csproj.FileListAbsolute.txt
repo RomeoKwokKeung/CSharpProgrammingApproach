@@ -1,0 +1,17 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\bin\Debug\FMACatCatcher.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\bin\Debug\FMACatCatcher.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.frmcredits.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.frmgame.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.frmhelp.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.frmintro.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.frmlose.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.frmwin.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\CatherineGainham\FMACatCatcher\obj\Debug\FMACatCatcher.csproj.GenerateResource.Cache

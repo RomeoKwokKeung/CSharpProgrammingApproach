@@ -1,0 +1,24 @@
+bin\Debug\Mario Game.exe
+bin\Debug\Mario Game.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Mario_Game.FrmStart.resources
+obj\Debug\Mario_Game.FrmGame.resources
+obj\Debug\Mario_Game.Properties.Resources.resources
+obj\Debug\Mario Game.csproj.GenerateResource.Cache
+obj\Debug\Mario Game.exe
+obj\Debug\Mario Game.pdb
+bin\Debug\Interop.WMPLib.dll
+bin\Debug\AxInterop.WMPLib.dll
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\Mario Game.csproj.ResolveComReference.cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.WMPLib.dll
+obj\Release\AxInterop.WMPLib.dll
+obj\Release\Mario Game.csproj.ResolveComReference.cache
+obj\Release\Mario_Game.FrmStart.resources
+obj\Release\Mario_Game.FrmHighscores.resources
+obj\Release\Mario_Game.FrmGame.resources
+obj\Release\Mario_Game.Properties.Resources.resources
+obj\Release\Mario Game.csproj.GenerateResource.Cache
+obj\Debug\Mario_Game.FrmScores.resources

@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RepApps.FrmRepApps.resources
+obj\Release\RepApps.Properties.Resources.resources
+obj\Release\RepApps.csproj.GenerateResource.Cache
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RepApps.FrmRepApps.resources
+obj\Debug\RepApps.Properties.Resources.resources
+obj\Debug\RepApps.csproj.GenerateResource.Cache
+bin\Release\RepApps.exe
+bin\Release\RepApps.pdb
+obj\Release\RepApps.exe
+obj\Release\RepApps.pdb
+bin\Debug\RepApps.exe
+bin\Debug\RepApps.pdb
+obj\Debug\RepApps.exe
+obj\Debug\RepApps.pdb

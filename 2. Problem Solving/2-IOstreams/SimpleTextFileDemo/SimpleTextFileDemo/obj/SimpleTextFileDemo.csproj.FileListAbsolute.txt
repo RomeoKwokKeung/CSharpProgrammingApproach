@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\3-ProbSolvingSubPrg\C#\2-IOstreams\SimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb

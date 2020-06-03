@@ -1,0 +1,17 @@
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.exe
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.pdb
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.FrmSimpleMethods.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\2-ProbSolvingSubPrg\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.FrmSimpleMethods.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\2. Problem Solving\1-methods\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.pdb

@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\bin\Debug\ArrayCounter.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\bin\Debug\ArrayCounter.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.FrmArrayCounter.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\bin\Debug\ArrayCounter.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\bin\Debug\ArrayCounter.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.FrmArrayCounter.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\5. Arrays\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.pdb

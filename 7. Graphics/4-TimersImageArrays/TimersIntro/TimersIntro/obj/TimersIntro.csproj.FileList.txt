@@ -1,0 +1,8 @@
+obj\Debug\TimersIntro.exe
+obj\Debug\TimersIntro.pdb
+bin\Debug\TimersIntro.exe
+bin\Debug\TimersIntro.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TimersIntro.FrmTimersIntro.resources
+obj\Debug\TimersIntro.Properties.Resources.resources
+obj\Debug\TimersIntro.csproj.GenerateResource.Cache

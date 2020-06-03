@@ -1,0 +1,9 @@
+C:\Temp\Craps\Craps\bin\Debug\Craps.exe.config
+C:\Temp\Craps\Craps\obj\Debug\Craps.csprojResolveAssemblyReference.cache
+C:\Temp\Craps\Craps\obj\Debug\Craps.FrmCraps.resources
+C:\Temp\Craps\Craps\obj\Debug\Craps.Properties.Resources.resources
+C:\Temp\Craps\Craps\obj\Debug\Craps.csproj.GenerateResource.Cache
+C:\Temp\Craps\Craps\bin\Debug\Craps.exe
+C:\Temp\Craps\Craps\bin\Debug\Craps.pdb
+C:\Temp\Craps\Craps\obj\Debug\Craps.exe
+C:\Temp\Craps\Craps\obj\Debug\Craps.pdb

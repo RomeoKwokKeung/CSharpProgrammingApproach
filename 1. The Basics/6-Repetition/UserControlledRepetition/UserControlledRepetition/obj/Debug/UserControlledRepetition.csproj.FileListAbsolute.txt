@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.FrmWhileTrue.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.exe
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.pdb
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\3-StringAccumulators\StringAccumulators\bin\Debug\StringAccumulators.exe
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\3-StringAccumulators\StringAccumulators\bin\Debug\StringAccumulators.pdb
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.FrmStringAccumulators.resources
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\4-Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.csproj.GenerateResource.Cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\bin\Debug\StringAccumulators.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\bin\Debug\StringAccumulators.pdb
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.FrmStringAccumulators.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.Properties.Resources.resources
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.exe
+C:\Users\Solomon Yue\source\repos\C# Programming Approach\4. Strings\3-StringAccumulators\StringAccumulators\obj\Debug\StringAccumulators.pdb

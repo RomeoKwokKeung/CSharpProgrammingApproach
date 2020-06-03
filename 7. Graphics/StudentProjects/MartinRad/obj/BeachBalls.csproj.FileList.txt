@@ -1,0 +1,14 @@
+.\bin\Debug\BeachBalls.exe
+.\bin\Debug\BeachBalls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BeachBalls.Properties.Resources.resources
+obj\Debug\BeachBalls.csproj.GenerateResource.Cache
+obj\Debug\BeachBalls.exe
+obj\Debug\BeachBalls.pdb
+obj\Debug\BeachBalls.frmGame.resources
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BeachBalls.frmGame.resources
+obj\Release\BeachBalls.Properties.Resources.resources
+obj\Release\BeachBalls.csproj.GenerateResource.Cache
+.\bin\Release\BeachBalls.exe
+obj\Release\BeachBalls.exe

@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\bin\Debug\PatientInfo.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\bin\Debug\PatientInfo.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.FrmMain.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.FrmPatientInfo.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+bin\Release\SimpleTextFileDemo.exe
+bin\Release\SimpleTextFileDemo.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SimpleTextFileDemo.FrmSimpleTextFile.resources
+obj\Release\SimpleTextFileDemo.Properties.Resources.resources
+obj\Release\SimpleTextFileDemo.csproj.GenerateResource.Cache
+obj\Release\SimpleTextFileDemo.exe
+obj\Release\SimpleTextFileDemo.pdb
+bin\Debug\SimpleTextFileDemo.exe
+bin\Debug\SimpleTextFileDemo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache
+obj\Debug\SimpleTextFileDemo.exe
+obj\Debug\SimpleTextFileDemo.pdb

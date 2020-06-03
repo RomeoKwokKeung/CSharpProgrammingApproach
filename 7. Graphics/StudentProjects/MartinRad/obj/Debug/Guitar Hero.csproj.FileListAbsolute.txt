@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\obj\Debug\BeachBalls.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\obj\Debug\BeachBalls.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\bin\Debug\BeachBalls.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\bin\Debug\BeachBalls.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\obj\Debug\BeachBalls.frmGame.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\obj\Debug\BeachBalls.frmInstructions.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\obj\Debug\BeachBalls.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\obj\Debug\BeachBalls.frmStart.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\MartinRad\obj\Debug\Guitar Hero.csproj.GenerateResource.Cache

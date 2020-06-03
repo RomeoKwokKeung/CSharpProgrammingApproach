@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\SimpleDialog\SimpleDialog\bin\Debug\SimpleDialog.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\SimpleDialog\SimpleDialog\bin\Debug\SimpleDialog.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.SimpleDialog.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\5-UserDefinedDialogs\SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.csproj.GenerateResource.Cache

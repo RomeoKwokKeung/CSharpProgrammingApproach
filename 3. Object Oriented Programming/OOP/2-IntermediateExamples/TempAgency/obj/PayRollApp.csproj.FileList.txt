@@ -1,0 +1,7 @@
+obj\Debug\PayRollApp.exe
+obj\Debug\PayRollApp.pdb
+bin\Debug\PayRollApp.exe
+bin\Debug\PayRollApp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PayRollApp.TempAgencyForm.resources
+obj\Debug\PayRollApp.csproj.GenerateResource.Cache

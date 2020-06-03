@@ -1,0 +1,30 @@
+C:\Temp\HappySad\HappySad\bin\Debug\HappySad.exe.config
+C:\Temp\HappySad\HappySad\bin\Debug\HappySad.exe
+C:\Temp\HappySad\HappySad\bin\Debug\HappySad.pdb
+C:\Temp\HappySad\HappySad\obj\Debug\HappySad.csprojAssemblyReference.cache
+C:\Temp\HappySad\HappySad\obj\Debug\HappySad.FrmHappySad.resources
+C:\Temp\HappySad\HappySad\obj\Debug\HappySad.Properties.Resources.resources
+C:\Temp\HappySad\HappySad\obj\Debug\HappySad.csproj.GenerateResource.cache
+C:\Temp\HappySad\HappySad\obj\Debug\HappySad.csproj.CoreCompileInputs.cache
+C:\Temp\HappySad\HappySad\obj\Debug\HappySad.exe
+C:\Temp\HappySad\HappySad\obj\Debug\HappySad.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\bin\Debug\HappySad.exe.config
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\bin\Debug\HappySad.exe
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\bin\Debug\HappySad.pdb
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.csprojAssemblyReference.cache
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.FrmHappySad.resources
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.Properties.Resources.resources
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.csproj.GenerateResource.cache
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.csproj.CoreCompileInputs.cache
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.exe
+C:\Temp\OnlineCourses\Udemy\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.pdb
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\bin\Debug\HappySad.exe.config
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\bin\Debug\HappySad.exe
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\bin\Debug\HappySad.pdb
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.csprojAssemblyReference.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.FrmHappySad.resources
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.Properties.Resources.resources
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.csproj.GenerateResource.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.csproj.CoreCompileInputs.cache
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.exe
+C:\Users\Solomon Yue\Desktop\Udemy\Udemy - C# Programming Approach\C# Programming Approach\8. Programming Challenges\32-HappySad\HappySad\HappySad\obj\Debug\HappySad.pdb

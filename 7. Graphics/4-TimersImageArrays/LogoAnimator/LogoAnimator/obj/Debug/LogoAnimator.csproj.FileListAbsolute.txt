@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\obj\Debug\LogoAnimator.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\obj\Debug\LogoAnimator.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\bin\Debug\LogoAnimator.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\bin\Debug\LogoAnimator.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\obj\Debug\LogoAnimator.FrmLogoAnimator.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\obj\Debug\LogoAnimator.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\obj\Debug\LogoAnimator.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\obj\Debug\LogoAnimator.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\4-TimersImageArrays\LogoAnimator\LogoAnimator\obj\Debug\LogoAnimator.pdb

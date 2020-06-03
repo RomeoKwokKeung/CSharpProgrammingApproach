@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\obj\Debug\Sample.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\obj\Debug\Sample.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\bin\Debug\Sample.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\bin\Debug\Sample.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\obj\Debug\Sample.Form1.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-IntroReviewExtension\C#\1-Intro\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\1-Intro\Sample\obj\Debug\Sample.exe
+C:\Temp\UdemyC#\SectionsLectures\Intro\Intro\1-Intro\Sample\obj\Debug\Sample.pdb

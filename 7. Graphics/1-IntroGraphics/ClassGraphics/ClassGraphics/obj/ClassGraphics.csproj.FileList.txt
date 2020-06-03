@@ -1,0 +1,8 @@
+bin\Debug\ClassGraphics.exe
+bin\Debug\ClassGraphics.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ClassGraphics.FrmClassGraphics.resources
+obj\Debug\ClassGraphics.Properties.Resources.resources
+obj\Debug\ClassGraphics.csproj.GenerateResource.Cache
+obj\Debug\ClassGraphics.exe
+obj\Debug\ClassGraphics.pdb

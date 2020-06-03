@@ -1,0 +1,59 @@
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.FrmDyztopia.resources
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.FrmLevel2.resources
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.Frmlevel3.resources
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.Properties.Resources.resources
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.csproj.GenerateResource.Cache
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\bin\Debug\Dyztopia.exe
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\bin\Debug\Dyztopia.pdb
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.exe
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.pdb
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Phil\My Documents\Visual Studio 2008\Projects\Dyztopia\Dyztopia\obj\Debug\Dyztopia.csproj.ResolveComReference.cache
+E:\Dyztopia\Dyztopia\obj\Debug\Interop.WMPLib.dll
+E:\Dyztopia\Dyztopia\obj\Debug\AxInterop.WMPLib.dll
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.csproj.ResolveComReference.cache
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.exe
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.pdb
+E:\Dyztopia\Dyztopia\bin\Debug\Dyztopia.exe
+E:\Dyztopia\Dyztopia\bin\Debug\Dyztopia.pdb
+E:\Dyztopia\Dyztopia\bin\Debug\Interop.WMPLib.dll
+E:\Dyztopia\Dyztopia\bin\Debug\AxInterop.WMPLib.dll
+E:\Dyztopia\Dyztopia\obj\Debug\ResolveAssemblyReference.cache
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.FrmDyztopia.resources
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.FrmLevel2.resources
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.Frmlevel3.resources
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.Properties.Resources.resources
+E:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.csproj.GenerateResource.Cache
+H:\Dyztopia\Dyztopia\obj\Debug\Interop.WMPLib.dll
+H:\Dyztopia\Dyztopia\obj\Debug\AxInterop.WMPLib.dll
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.csproj.ResolveComReference.cache
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.exe
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.pdb
+H:\Dyztopia\Dyztopia\bin\Debug\Dyztopia.exe
+H:\Dyztopia\Dyztopia\bin\Debug\Dyztopia.pdb
+H:\Dyztopia\Dyztopia\bin\Debug\Interop.WMPLib.dll
+H:\Dyztopia\Dyztopia\bin\Debug\AxInterop.WMPLib.dll
+H:\Dyztopia\Dyztopia\obj\Debug\ResolveAssemblyReference.cache
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.FrmDyztopia.resources
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.FrmLevel2.resources
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.Frmlevel3.resources
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.Properties.Resources.resources
+H:\Dyztopia\Dyztopia\obj\Debug\Dyztopia.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\bin\Debug\Dyztopia.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\bin\Debug\Dyztopia.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.FrmDyztopia.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.FrmLevel2.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.Frmlevel3.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\PhilipMarynowicz\Dyztopia\obj\Debug\Dyztopia.csproj.GenerateResource.Cache

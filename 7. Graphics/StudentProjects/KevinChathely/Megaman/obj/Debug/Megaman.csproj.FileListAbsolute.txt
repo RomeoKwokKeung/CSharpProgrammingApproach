@@ -1,0 +1,59 @@
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\bin\Debug\Megaman.exe
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\bin\Debug\Megaman.pdb
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\Megaman.csproj.ResolveComReference.cache
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\Megaman.Mega.resources
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\Megaman.Properties.Resources.resources
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\Megaman.csproj.GenerateResource.Cache
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\Megaman.exe
+C:\Documents and Settings\chathelke916\Local Settings\Application Data\Temporary Projects\Megaman\obj\Debug\Megaman.pdb
+h:\Visual Studio 2008\Projects\Megaman\Megaman\obj\Debug\Interop.WMPLib.dll
+h:\Visual Studio 2008\Projects\Megaman\Megaman\obj\Debug\AxInterop.WMPLib.dll
+h:\Visual Studio 2008\Projects\Megaman\Megaman\obj\Debug\Megaman.csproj.ResolveComReference.cache
+h:\Visual Studio 2008\Projects\Megaman\Megaman\obj\Debug\Megaman.exe
+h:\Visual Studio 2008\Projects\Megaman\Megaman\obj\Debug\Megaman.pdb
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Megaman.csproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Megaman.exe
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Megaman.pdb
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\bin\Debug\Megaman.exe
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\bin\Debug\Megaman.pdb
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Megaman.Mega.resources
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Megaman.Properties.Resources.resources
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Megaman.csproj.GenerateResource.Cache
+h:\ICS3U\Megaman\Megaman\obj\Debug\Interop.WMPLib.dll
+h:\ICS3U\Megaman\Megaman\obj\Debug\AxInterop.WMPLib.dll
+h:\ICS3U\Megaman\Megaman\obj\Debug\Megaman.csproj.ResolveComReference.cache
+h:\ICS3U\Megaman\Megaman\obj\Debug\Megaman.exe
+h:\ICS3U\Megaman\Megaman\obj\Debug\Megaman.pdb
+h:\ICS3U\Megaman\Megaman\bin\Debug\Megaman.exe
+h:\ICS3U\Megaman\Megaman\bin\Debug\Megaman.pdb
+h:\ICS3U\Megaman\Megaman\bin\Debug\Interop.WMPLib.dll
+h:\ICS3U\Megaman\Megaman\bin\Debug\AxInterop.WMPLib.dll
+h:\ICS3U\Megaman\Megaman\obj\Debug\ResolveAssemblyReference.cache
+h:\ICS3U\Megaman\Megaman\obj\Debug\Megaman.Mega.resources
+h:\ICS3U\Megaman\Megaman\obj\Debug\Megaman.Properties.Resources.resources
+h:\ICS3U\Megaman\Megaman\obj\Debug\Megaman.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\ken\ISC3U1\Megaman\Megaman\obj\Debug\Megaman.Mega2.resources
+h:\ICS3U\Megaman\Megaman\obj\Debug\Megaman.Mega2.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Megaman.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Megaman.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Megaman.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\bin\Debug\Megaman.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\bin\Debug\Megaman.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Megaman.Mega.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Megaman.Mega2.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Megaman.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\StudentProjects\KevinChathely\Megaman\obj\Debug\Megaman.csproj.GenerateResource.Cache

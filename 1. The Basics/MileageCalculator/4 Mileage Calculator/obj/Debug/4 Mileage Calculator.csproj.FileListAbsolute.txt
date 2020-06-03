@@ -1,0 +1,24 @@
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\bin\Debug\4 Mileage Calculator.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\bin\Debug\4 Mileage Calculator.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\__Mileage_Calculator.Form1.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\__Mileage_Calculator.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\bin\Debug\4 Mileage Calculator.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\bin\Debug\4 Mileage Calculator.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\__Mileage_Calculator.Form1.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\__Mileage_Calculator.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\4 Mileage Calculator\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\bin\Debug\4 Mileage Calculator.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\bin\Debug\4 Mileage Calculator.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\obj\Debug\__Mileage_Calculator.Form1.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\obj\Debug\__Mileage_Calculator.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Beginners\Lecture19Extra\4 Mileage Calculator\obj\Debug\4 Mileage Calculator.csproj.GenerateResource.Cache

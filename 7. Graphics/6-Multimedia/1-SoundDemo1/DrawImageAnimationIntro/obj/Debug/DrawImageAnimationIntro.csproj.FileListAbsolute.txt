@@ -1,0 +1,12 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\DrawImageAnimationIntro.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\DrawImageAnimationIntro.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\Interop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.FrmDrawImage.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\6-Multimedia\1-SoundDemo1\DrawImageAnimationIntro\obj\Debug\DrawImageAnimationIntro.csproj.GenerateResource.Cache

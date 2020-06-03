@@ -1,0 +1,9 @@
+C:\Temp\PennyLane\PennyLane\bin\Debug\PennyLane.exe.config
+C:\Temp\PennyLane\PennyLane\bin\Debug\PennyLane.exe
+C:\Temp\PennyLane\PennyLane\bin\Debug\PennyLane.pdb
+C:\Temp\PennyLane\PennyLane\obj\Debug\PennyLane.csprojResolveAssemblyReference.cache
+C:\Temp\PennyLane\PennyLane\obj\Debug\PennyLane.FrmPenny.resources
+C:\Temp\PennyLane\PennyLane\obj\Debug\PennyLane.Properties.Resources.resources
+C:\Temp\PennyLane\PennyLane\obj\Debug\PennyLane.csproj.GenerateResource.Cache
+C:\Temp\PennyLane\PennyLane\obj\Debug\PennyLane.exe
+C:\Temp\PennyLane\PennyLane\obj\Debug\PennyLane.pdb

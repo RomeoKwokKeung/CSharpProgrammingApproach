@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\5-Strings\C#\7-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\5-Strings\C#\7-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.pdb

@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\obj\Debug\MouseMoveIntro.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\obj\Debug\MouseMoveIntro.pdb
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\bin\Debug\MouseMoveIntro.exe
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\bin\Debug\MouseMoveIntro.pdb
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\obj\Debug\MouseMoveIntro.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\obj\Debug\WindowsApplication1.FrmMouseMove.resources
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Temp\UdemyC#\SectionsLectures\Graphics\Graphics\3-MouseEvents\MouseMoveIntro1\MouseMoveIntro\obj\Debug\MouseMoveIntro.csproj.GenerateResource.Cache

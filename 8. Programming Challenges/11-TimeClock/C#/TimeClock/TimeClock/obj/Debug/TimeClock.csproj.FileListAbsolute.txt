@@ -1,0 +1,9 @@
+C:\Temp\TimeClock\TimeClock\bin\Debug\TimeClock.exe.config
+C:\Temp\TimeClock\TimeClock\bin\Debug\TimeClock.exe
+C:\Temp\TimeClock\TimeClock\bin\Debug\TimeClock.pdb
+C:\Temp\TimeClock\TimeClock\obj\Debug\TimeClock.csprojResolveAssemblyReference.cache
+C:\Temp\TimeClock\TimeClock\obj\Debug\TimeClock.FrmTimeClock.resources
+C:\Temp\TimeClock\TimeClock\obj\Debug\TimeClock.Properties.Resources.resources
+C:\Temp\TimeClock\TimeClock\obj\Debug\TimeClock.csproj.GenerateResource.Cache
+C:\Temp\TimeClock\TimeClock\obj\Debug\TimeClock.exe
+C:\Temp\TimeClock\TimeClock\obj\Debug\TimeClock.pdb

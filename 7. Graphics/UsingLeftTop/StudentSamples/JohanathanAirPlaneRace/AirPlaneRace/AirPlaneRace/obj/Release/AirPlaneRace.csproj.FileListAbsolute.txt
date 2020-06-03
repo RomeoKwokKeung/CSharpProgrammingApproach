@@ -1,0 +1,8 @@
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\bin\Release\AirPlaneRace.exe
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\bin\Release\AirPlaneRace.pdb
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\obj\Release\ResolveAssemblyReference.cache
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\obj\Release\AirPlaneRace.Form1.resources
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\obj\Release\AirPlaneRace.Properties.Resources.resources
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\obj\Release\AirPlaneRace.csproj.GenerateResource.Cache
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\obj\Release\AirPlaneRace.exe
+\\sjb2\070users$\dimattejo807\Visual Studio 2008\Projects\AirPlaneRace\AirPlaneRace\obj\Release\AirPlaneRace.pdb

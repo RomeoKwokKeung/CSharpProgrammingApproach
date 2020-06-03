@@ -1,0 +1,9 @@
+C:\Temp\24HourClock\24HourClock\bin\Debug\24HourClock.exe.config
+C:\Temp\24HourClock\24HourClock\bin\Debug\24HourClock.exe
+C:\Temp\24HourClock\24HourClock\bin\Debug\24HourClock.pdb
+C:\Temp\24HourClock\24HourClock\obj\Debug\24HourClock.csprojResolveAssemblyReference.cache
+C:\Temp\24HourClock\24HourClock\obj\Debug\_24HourClock.FrmClock.resources
+C:\Temp\24HourClock\24HourClock\obj\Debug\_24HourClock.Properties.Resources.resources
+C:\Temp\24HourClock\24HourClock\obj\Debug\24HourClock.csproj.GenerateResource.Cache
+C:\Temp\24HourClock\24HourClock\obj\Debug\24HourClock.exe
+C:\Temp\24HourClock\24HourClock\obj\Debug\24HourClock.pdb

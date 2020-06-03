@@ -1,0 +1,16 @@
+obj\Debug\GraphicsClassIntro1.exe
+obj\Debug\GraphicsClassIntro1.pdb
+bin\Debug\GraphicsClassIntro1.exe
+bin\Debug\GraphicsClassIntro1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GraphicsClassIntro1.Properties.Resources.resources
+obj\Debug\GraphicsClassIntro1.csproj.GenerateResource.Cache
+obj\Debug\GraphicsClassIntro1.FrmGraphicsClassIntro1.resources
+bin\Release\GraphicsClassIntro1.exe
+bin\Release\GraphicsClassIntro1.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\GraphicsClassIntro1.FrmGraphicsClassIntro1.resources
+obj\Release\GraphicsClassIntro1.Properties.Resources.resources
+obj\Release\GraphicsClassIntro1.csproj.GenerateResource.Cache
+obj\Release\GraphicsClassIntro1.exe
+obj\Release\GraphicsClassIntro1.pdb

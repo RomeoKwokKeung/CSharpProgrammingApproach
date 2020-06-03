@@ -1,0 +1,7 @@
+obj\Debug\GuessNumber.exe
+obj\Debug\GuessNumber.pdb
+.\bin\Debug\GuessNumber.exe
+.\bin\Debug\GuessNumber.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GuessNumber.Properties.Resources.resources
+obj\Debug\GuessNumber.csproj.GenerateResource.Cache

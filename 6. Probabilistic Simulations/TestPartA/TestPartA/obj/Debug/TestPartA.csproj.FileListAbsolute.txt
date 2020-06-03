@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\TestPartA\TestPartA\obj\Debug\TestPartA.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\TestPartA\TestPartA\obj\Debug\TestPartA.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\TestPartA\TestPartA\bin\Debug\TestPartA.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\TestPartA\TestPartA\bin\Debug\TestPartA.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\TestPartA\TestPartA\obj\Debug\TestPartA.FrmTestPartA.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\TestPartA\TestPartA\obj\Debug\TestPartA.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\TestPartA\TestPartA\obj\Debug\TestPartA.csproj.GenerateResource.Cache

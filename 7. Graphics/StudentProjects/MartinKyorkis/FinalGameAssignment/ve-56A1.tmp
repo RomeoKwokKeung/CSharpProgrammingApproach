@@ -1,0 +1,605 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using System.Media;
+using System.IO;
+
+namespace FinalGameAssignment
+{
+    public partial class FrmGame : Form
+    {
+        public FrmGame()
+        {
+            InitializeComponent();
+                      
+            SetStyle(ControlStyles.UserPaint, true);
+            SetStyle(ControlStyles.AllPaintingInWmPaint, true);
+            SetStyle(ControlStyles.DoubleBuffer, true);
+        }
+            int hitpoints;
+            int power;
+            int enemyhp1;
+            int enemyhp2;
+            int enemyhp3;
+            int counterbackground = 1;
+            int level;
+            int counterplayer = 1;
+            int PlayerX = 100;
+            int PlayerY = 200;
+            int counterboss = 1;
+            int bossX = 300;
+            int bossY = 100;
+            bool enemyattack = false;
+            bool playerattack = false;
+            bool playerspec = false;
+            bool enemyattackdelay = false;
+
+            Random r = new Random();
+            
+            Image[] boss1images = new Image[7];
+            Image boss;
+
+            Image[] boss2images = new Image[7];
+            
+
+            Image[] playerimage = new Image[7];
+            Image player;
+            
+            Image[] backgroundimage = new Image[13];
+            Image background;
+
+            Image bullet;
+            Image spec;
+
+            SoundPlayer attack = new SoundPlayer();
+            SoundPlayer specialattack = new SoundPlayer();
+
+            Image enemybullet;
+
+            int projectileX = -50; 
+            int projectileY = -50;
+            int projectileSpeed = 0;
+            int specX = -50;
+            int specY = -50;
+
+            int enemyprojectileX = -50;
+            int enemyprojectileY = -50;
+            int enemyprojectileSpeed = 10;
+            
+            Graphics g;
+        
+        private void FrmGame_Load(object sender, EventArgs e)
+        {
+            hitpoints = 50;
+            power = 5;
+            enemyhp1 = 50;
+            enemyhp2 = 100;
+            enemyhp3 = 200;
+            TmrImages.Enabled = true;
+            TmrHeal.Enabled = true;
+            level = 1;
+            BarEnemy1.Visible = true;
+            WmpBgm.URL = Application.StartupPath + @"\Level1.mp3";
+            TmrBoss.Enabled = true;
+            attack.SoundLocation = Application.StartupPath + @"\Fireball.wav";
+            attack.LoadAsync();
+            specialattack.SoundLocation = Application.StartupPath + @"\Special.wav";
+            specialattack.LoadAsync();
+            enemybullet = Image.FromFile(Application.StartupPath + @"\bossattack.gif");
+            TmrUpdate.Enabled = true;
+
+            for (int i = 1; i <= 12; i++)
+            {
+                backgroundimage[i] = Image.FromFile(Application.StartupPath + @"\background" + i.ToString() + ".jpg");
+            }
+            
+            background = backgroundimage[1];
+
+            for (int i = 1; i <= 6; i++)
+            {
+                playerimage[i] = Image.FromFile(Application.StartupPath + @"\Player" + i.ToString() + ".gif");
+            }
+
+            player = playerimage[1];
+
+            for (int i = 1; i <= 5; i++)
+            {
+                boss1images[i] = Image.FromFile(Application.StartupPath + @"\Boss1" + i.ToString() + ".gif");
+            }
+
+            boss = boss1images[1];
+
+            for (int i = 1; i <= 6; i++)
+            {
+                boss2images[i] = Image.FromFile(Application.StartupPath + @"\Boss2" + i.ToString() + ".gif");
+            }
+
+            bullet = Image.FromFile(Application.StartupPath + @"\PlayerFireball5.gif");
+            spec = Image.FromFile(Application.StartupPath + @"\playerspec.gif");
+            
+
+        }
+
+        
+        private void DrawStuff(Graphics g)
+        {
+            
+            g.DrawImage(background, 0, 0);
+            g.DrawImage(player, PlayerX, PlayerY);
+            g.DrawImage(bullet, projectileX, projectileY);
+            g.DrawImage(spec, specX, specY);
+            g.DrawImage(enemybullet, enemyprojectileX, enemyprojectileY);
+            g.DrawImage(boss, bossX, bossY);
+
+        }
+
+        private void TmrUpdate_Tick(object sender, EventArgs e)
+        {
+            BarHitpoints.Value = hitpoints;
+            BarPower.Value = power;
+            
+
+            switch (level) 
+            {
+                case 1:
+                
+                    BarEnemy1.Value = enemyhp1;
+                    
+                
+                break;
+
+                case 2:
+
+                    BarEnemy2.Value = enemyhp2;
+                
+                break;
+
+                case 3:
+                
+                    BarEnemy3.Value = enemyhp3;
+                
+                break;
+            }
+        }
+    
+        private void FrmGame_Paint(object sender, PaintEventArgs e)
+        {
+            g = e.Graphics;
+
+            
+            g.DrawImage(background, 0, 0);
+            g.DrawImage(player, PlayerX, PlayerY);
+            g.DrawImage(bullet, projectileX, projectileY);
+            g.DrawImage(spec, specX, specY);
+            g.DrawImage(enemybullet, enemyprojectileX, enemyprojectileY);
+            g.DrawImage(boss, bossX, bossY);
+          
+        
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (counterbackground > 11)
+            {
+                counterbackground = 0;
+            }
+
+            counterbackground++;
+
+            background = backgroundimage[counterbackground];
+
+            
+            
+            
+            
+
+            
+            if (counterplayer >= 4)
+            {
+                counterplayer = 0;
+            }
+
+            counterplayer++;
+
+            if (playerattack == false && playerspec == false)
+            {
+                player = playerimage[counterplayer];
+            }
+            else if (playerattack == true)
+            {
+                player = playerimage[6];
+                projectileX += projectileSpeed;
+            }
+            else if (playerspec == true)
+            {
+                player = playerimage[6];
+                specX += projectileSpeed;
+            }
+            if (enemyprojectileX <= ClientSize.Width / 2)
+            {
+                enemyattackdelay = false;
+            }
+            if (enemyprojectileX <= 0)
+            {
+                NewEnemyProjectile();
+            }
+            if (enemyprojectileX + 10 <= PlayerX + player.Width && enemyprojectileX >= PlayerX && enemyprojectileY >= PlayerY && enemyprojectileY <= PlayerY + player.Height)
+            {
+                switch (level)
+                {
+                    case 1:
+                        if (hitpoints >= 5)
+                        {
+                            hitpoints -= 5;
+                        }else
+                        {
+                            hitpoints = 0;
+                        }
+                        break;
+
+                    case 2:
+                        if (hitpoints >= 10)
+                        {
+                            hitpoints -= 10;
+                        }
+                        else
+                        {
+                            hitpoints = 0;
+                        }
+                        break;
+
+                    case 3:
+                        if (hitpoints >= 20)
+                        {
+                            hitpoints -= 20;
+                        }
+                        else
+                        {
+                            hitpoints = 0;
+                        }
+                        break;
+                }
+            }
+
+            if (enemyattackdelay)
+            {
+                switch (level)
+                {
+                    case 1:
+                        enemyprojectileX -= enemyprojectileSpeed;
+                        break;
+
+                    case 2:
+                        enemyprojectileX -= enemyprojectileSpeed;
+                        break;
+
+                    case 3:
+
+                        break;
+                }
+            }
+            if (enemyattack)
+            {
+                switch (level)
+                {
+                    case 1:
+
+                        boss = boss1images[5];
+                        enemyprojectileX -= 15;
+                        
+                        break;
+
+                    case 2:
+                        
+                        boss = boss2images[5];
+                        enemyprojectileX -= 25;
+
+
+                        break;
+
+                    case 3:
+                        
+                        //boss = boss3images[6];
+                        enemyprojectileX -= 35;
+
+                        break;
+                }
+            }
+
+            switch (level)
+            {
+                case 1:
+                    if (enemyhp1 == 0)
+                    {
+                        NextLevel();
+                    }
+                    break;
+
+                case 2:
+                    if (enemyhp2 == 0)
+                    {
+
+                    }
+                    break;
+
+                case 3:
+                    if (enemyhp3 == 0)
+                    {
+
+                    }
+                    break;
+            }
+
+
+
+            if (!enemyattackdelay)
+            {
+                counterboss++;
+            }
+            if (counterboss >= 5)  
+            {
+                counterboss = 1;
+            }
+
+            
+            
+            switch (level)
+            {
+                case 1:
+
+                    if (!enemyattackdelay)
+                    {
+                        boss = boss1images[counterboss];
+                    }
+                    
+                    break;
+
+                case 2:
+
+                    boss = boss2images[counterboss];
+
+                    break;
+
+                case 3:
+
+                    
+
+                    break;
+            }
+
+            if (projectileX - 10 >= bossX && projectileY - 10 >= bossY - 15 && projectileY - 10 <= boss.Height + bossY)
+            {
+                NewProjectile();
+
+                if (enemyhp1 >= 3)
+                {
+                    enemyhp1 -= 3;
+                    if (hitpoints <= 18)
+                    {
+                        hitpoints += 2;
+                    }
+                    else
+                    {
+                        hitpoints = 50;
+                    }
+                    if (power < 20)
+                    {
+                        power += 1;
+                    }
+                }
+                else
+                {
+                    enemyhp1 = 0;
+                    
+                }
+            }
+            else if (specX >= bossX && specY - 10 >= bossY - 15 && specY - 20 <= bossY + boss.Height)
+            {
+                NewProjectile();
+                
+                if (enemyhp1 >= 9)
+                {
+                    enemyhp1 -= 9;
+                }
+                else
+                {
+                    enemyhp1 = 0;
+                }
+            }
+            else if (projectileX >= ClientSize.Width || specX >= ClientSize.Width)
+            {
+                NewProjectile();
+            }
+
+            if (enemyhp1 == 0 || enemyhp2 == 0 || enemyhp3 == 0)
+            {
+                NextLevel();
+            }
+
+            Invalidate();
+
+            
+
+        }
+
+        private void FrmGame_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            FrmStart f = new FrmStart();
+            
+            f.Show();
+            WmpBgm.Ctlcontrols.stop();
+        }
+
+        private void TmrBoss_Tick(object sender, EventArgs e)
+        {
+            
+
+                bossX = r.Next(250, 450);
+                bossY = r.Next(50, 250);
+
+            if (!enemyattackdelay)
+            {
+                Shoot();
+            }
+        }
+
+        private void FrmGame_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                case Keys.W:
+                    if (PlayerY >= 50)
+                    PlayerY -= 10;
+                    break;
+
+                case Keys.S:
+
+                    if (PlayerY <= 350)
+                    {
+                        PlayerY += 10;
+                    }
+
+                    break;
+
+                case Keys.A:
+                    
+                    if (PlayerX >= 5)
+                    {
+                        PlayerX -= 10;
+                    }
+                    
+                    break;
+
+                case Keys.D:
+                   
+                    if (PlayerX <= ClientSize.Width / 2 - 50)
+                    {
+                        PlayerX += 10;
+                    }
+                    break;
+                
+                case Keys.Space:
+
+                    if (specX <= 0 && projectileX <= 0 && power >= 2)
+                    {
+                        playerspec = true;
+                        projectileSpeed = 20;
+                        specX = PlayerX + 30;
+                        specY = PlayerY + 15;
+
+                        power -= 2;
+                        specialattack.Play();
+                        
+                    }
+                    break;
+
+                case Keys.ControlKey:
+                    
+                    if (projectileX <= 0 && specX <= 0)
+                    {
+                        playerattack = true;
+                        projectileSpeed = 20;
+                        projectileX = PlayerX + 30;
+                        projectileY = PlayerY + 20;
+                        attack.Play();
+                        
+                    }
+                    break;
+
+
+
+            }
+        }
+
+
+        public void NewProjectile()
+        {
+            playerattack = false;
+            playerspec = false;
+            specX = -50;
+            projectileX = -50;
+        }
+
+        public void Shoot()
+        {
+            if (!enemyattack)
+            {
+                bossY = PlayerY - 20;
+                enemyattack = true;
+                enemyprojectileX = bossX;
+                enemyprojectileY = bossY + 25;
+                enemyattackdelay = true;
+            }
+        }
+
+        public void NewEnemyProjectile()
+        {
+            enemyattack = false;
+            enemyprojectileX = -200;
+            
+        }
+
+        public void NextLevel()
+        {
+            switch (level)
+            {
+                case 1:
+                    enemyhp1 = 20;
+                    BarEnemy1.Visible = false;
+                    BarEnemy2.Visible = true;
+                    TmrBoss.Interval = 3000;
+                    enemyprojectileSpeed = 30;
+                    level = 2;
+                    enemyattack = false;
+                    enemyattackdelay = false;
+
+                    break;
+
+                case 2:
+                    enemyhp2 = 50;
+                    BarEnemy2.Visible = false;
+                    BarEnemy3.Visible = true;
+                    break;
+
+                case 3:
+
+                    break;
+
+            }
+        }
+
+        private void TmrHeal_Tick(object sender, EventArgs e)
+        {
+            switch (level)
+            {
+                case 1:
+                    if (enemyhp1 < 50)
+                    {
+                        enemyhp1++;
+                    }
+                    break;
+
+                case 2: 
+                    if (enemyhp2 < 100)
+                    {
+
+                        enemyhp2++;
+                    }
+                    break;
+
+                case 3:
+                    if (enemyhp3 < 200)
+                    {
+                        enemyhp3++;
+                    }
+                    break;
+            }
+        }
+        
+    }
+}

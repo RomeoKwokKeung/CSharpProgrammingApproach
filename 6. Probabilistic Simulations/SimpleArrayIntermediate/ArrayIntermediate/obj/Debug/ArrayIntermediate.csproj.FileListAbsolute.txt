@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\bin\Debug\ArrayIntermediate.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\bin\Debug\ArrayIntermediate.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.FrmIntermediate.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\SimpleArrayIntermediate\ArrayIntermediate\obj\Debug\ArrayIntermediate.csproj.GenerateResource.Cache

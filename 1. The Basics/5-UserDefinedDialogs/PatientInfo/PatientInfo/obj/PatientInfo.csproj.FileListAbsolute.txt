@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\PatientInfo\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\2-SelRep\C#\2-UserDefinedDialogs\PatientInfo\PatientInfo\obj\Debug\PatientInfo.pdb

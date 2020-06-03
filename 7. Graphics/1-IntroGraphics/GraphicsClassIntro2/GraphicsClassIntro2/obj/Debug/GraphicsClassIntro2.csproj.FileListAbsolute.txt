@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\GraphicsClassIntro2\GraphicsClassIntro2\obj\Debug\GraphicsClassIntro2.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\GraphicsClassIntro2\GraphicsClassIntro2\obj\Debug\GraphicsClassIntro2.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\GraphicsClassIntro2\GraphicsClassIntro2\bin\Debug\GraphicsClassIntro2.exe
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\GraphicsClassIntro2\GraphicsClassIntro2\bin\Debug\GraphicsClassIntro2.pdb
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\GraphicsClassIntro2\GraphicsClassIntro2\obj\Debug\GraphicsClassIntro2.FrmGraphicsClassIntro2.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\GraphicsClassIntro2\GraphicsClassIntro2\obj\Debug\GraphicsClassIntro2.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\7-Graphics\1-IntroGraphics\GraphicsClassIntro2\GraphicsClassIntro2\obj\Debug\GraphicsClassIntro2.csproj.GenerateResource.Cache

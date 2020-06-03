@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\bin\Debug\ArrayCounter.exe
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\bin\Debug\ArrayCounter.pdb
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.FrmArrayCounter.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Intermediate\ArrayCounter\ArrayCounter\obj\Debug\ArrayCounter.csproj.GenerateResource.Cache
