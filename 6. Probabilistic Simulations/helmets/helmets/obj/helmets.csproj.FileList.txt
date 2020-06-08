@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\helmets.FrmHelmets.resources
+obj\Release\helmets.Properties.Resources.resources
+obj\Release\helmets.csproj.GenerateResource.Cache
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\helmets.FrmHelmets.resources
+obj\Debug\helmets.Properties.Resources.resources
+obj\Debug\helmets.csproj.GenerateResource.Cache
+bin\Release\helmets.exe
+bin\Release\helmets.pdb
+obj\Release\helmets.exe
+obj\Release\helmets.pdb
+bin\Debug\helmets.exe
+bin\Debug\helmets.pdb
+obj\Debug\helmets.exe
+obj\Debug\helmets.pdb

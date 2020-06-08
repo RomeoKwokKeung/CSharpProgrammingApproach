@@ -1,0 +1,2 @@
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.pdb

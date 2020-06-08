@@ -1,0 +1,8 @@
+bin\Debug\RandomNumbersIntro.exe
+bin\Debug\RandomNumbersIntro.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RandomNumbersIntro.FrmRandomNumberIntro.resources
+obj\Debug\RandomNumbersIntro.Properties.Resources.resources
+obj\Debug\RandomNumbersIntro.csproj.GenerateResource.Cache
+obj\Debug\RandomNumbersIntro.exe
+obj\Debug\RandomNumbersIntro.pdb

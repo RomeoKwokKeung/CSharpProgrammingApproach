@@ -1,8 +1,0 @@
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\obj\Debug\QuizScore.exe
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\obj\Debug\QuizScore.pdb
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\bin\Debug\QuizScore.exe
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\bin\Debug\QuizScore.pdb
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\obj\Debug\QuizScore.csprojResolveAssemblyReference.cache
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\obj\Debug\QuizScore.FrmQuizScore.resources
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\obj\Debug\QuizScore.Properties.Resources.resources
-C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\QuizScore\QuizScore\obj\Debug\QuizScore.csproj.GenerateResource.Cache

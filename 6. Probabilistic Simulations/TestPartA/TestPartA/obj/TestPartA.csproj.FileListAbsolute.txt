@@ -1,2 +1,0 @@
-C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\6-Arrays\C#\TestPartA\TestPartA\obj\Debug\TestPartA.exe
-C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\6-Arrays\C#\TestPartA\TestPartA\obj\Debug\TestPartA.pdb

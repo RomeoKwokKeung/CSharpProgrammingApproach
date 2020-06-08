@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\bin\Debug\DartBoard.exe
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\bin\Debug\DartBoard.pdb
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.FrmDartBoard.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\7-ProbablisticSims\C#\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.csproj.GenerateResource.Cache

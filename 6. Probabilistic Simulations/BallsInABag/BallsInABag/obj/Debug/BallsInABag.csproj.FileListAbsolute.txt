@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\BallsInABag\BallsInABag\obj\Debug\BallsInABag.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\BallsInABag\BallsInABag\obj\Debug\BallsInABag.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\BallsInABag\BallsInABag\bin\Debug\BallsInABag.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\BallsInABag\BallsInABag\bin\Debug\BallsInABag.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\BallsInABag\BallsInABag\obj\Debug\BallsInABag.FrmBallsInABag.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\BallsInABag\BallsInABag\obj\Debug\BallsInABag.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\BallsInABag\BallsInABag\obj\Debug\BallsInABag.csproj.GenerateResource.Cache

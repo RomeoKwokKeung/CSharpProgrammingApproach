@@ -1,0 +1,8 @@
+bin\Debug\BallsInABag.exe
+bin\Debug\BallsInABag.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BallsInABag.FrmBallsInABag.resources
+obj\Debug\BallsInABag.Properties.Resources.resources
+obj\Debug\BallsInABag.csproj.GenerateResource.Cache
+obj\Debug\BallsInABag.exe
+obj\Debug\BallsInABag.pdb

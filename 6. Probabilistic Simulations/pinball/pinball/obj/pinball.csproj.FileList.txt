@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\pinball.FrmPinball.resources
+obj\Debug\pinball.Properties.Resources.resources
+obj\Debug\pinball.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\pinball.FrmPinball.resources
+obj\Release\pinball.Properties.Resources.resources
+obj\Release\pinball.csproj.GenerateResource.Cache
+bin\Release\pinball.exe
+bin\Release\pinball.pdb
+obj\Release\pinball.exe
+obj\Release\pinball.pdb
+bin\Debug\pinball.exe
+bin\Debug\pinball.pdb
+obj\Debug\pinball.exe
+obj\Debug\pinball.pdb

@@ -1,2 +1,0 @@
-C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\6-Arrays\C#\2-TwoDimensional\SimpleQuizScore\QuizScore\obj\Debug\QuizScore.exe
-C:\Cmaterial\CourseMaterial\ics3m\cc\C#CourseUnits\6-Arrays\C#\2-TwoDimensional\SimpleQuizScore\QuizScore\obj\Debug\QuizScore.pdb

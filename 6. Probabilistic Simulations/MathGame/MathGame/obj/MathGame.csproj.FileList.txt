@@ -1,0 +1,8 @@
+bin\Debug\MathGame.exe
+bin\Debug\MathGame.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MathGame.Form1.resources
+obj\Debug\MathGame.Properties.Resources.resources
+obj\Debug\MathGame.csproj.GenerateResource.Cache
+obj\Debug\MathGame.exe
+obj\Debug\MathGame.pdb

@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MoreRandomNumbers.FrmMoreRandomNumbers.resources
+obj\Release\MoreRandomNumbers.Properties.Resources.resources
+obj\Release\MoreRandomNumbers.csproj.GenerateResource.Cache
+bin\Release\MoreRandomNumbers.exe
+bin\Release\MoreRandomNumbers.pdb
+obj\Release\MoreRandomNumbers.exe
+obj\Release\MoreRandomNumbers.pdb
+bin\Debug\MoreRandomNumbers.exe
+bin\Debug\MoreRandomNumbers.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MoreRandomNumbers.FrmMoreRandomNumbers.resources
+obj\Debug\MoreRandomNumbers.Properties.Resources.resources
+obj\Debug\MoreRandomNumbers.csproj.GenerateResource.Cache
+obj\Debug\MoreRandomNumbers.exe
+obj\Debug\MoreRandomNumbers.pdb

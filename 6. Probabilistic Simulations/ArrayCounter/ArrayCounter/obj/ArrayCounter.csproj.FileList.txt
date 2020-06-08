@@ -1,8 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\ArrayCounter.FrmArrayCounter.resources
-obj\Debug\ArrayCounter.Properties.Resources.resources
-obj\Debug\ArrayCounter.csproj.GenerateResource.Cache
-bin\Debug\ArrayCounter.exe
-bin\Debug\ArrayCounter.pdb
-obj\Debug\ArrayCounter.exe
-obj\Debug\ArrayCounter.pdb

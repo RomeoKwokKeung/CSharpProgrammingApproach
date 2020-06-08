@@ -34,6 +34,7 @@ namespace QuizScore
             int [] lowquizpos = new int [5];
 
             TxtDisplay.Clear();
+            //title
             TxtDisplay.Text = "Quiz Score Analysis" + Environment.NewLine +Environment.NewLine;
 
             TxtDisplay.Text += "Original Data" + Environment.NewLine;
@@ -44,6 +45,7 @@ namespace QuizScore
 
             StreamReader read = new StreamReader(f);
 
+            //read the information from the txt file
             for (int r = 1; r <= 3; r++)
             {
                 for (int c = 1; c <= 4; c++)
@@ -52,6 +54,7 @@ namespace QuizScore
                 }
             }
 
+            //name of students
             for (int r = 1; r <= 3; r++)
             {
                 student[r] = read.ReadLine();
@@ -79,13 +82,14 @@ namespace QuizScore
                 TxtDisplay.Text += quizname[c] + "\t";
             }
 
+            //go down
             TxtDisplay.Text += Environment.NewLine;
 
             for (int r = 1; r <= 3; r++)
             {
                 TxtDisplay.Text += student[r] + "\t";
                 for (int c = 1; c <= 4; c++)
-                {
+                {//print out the mark
                     TxtDisplay.Text += Convert.ToString(quiz[r, c]) + "\t";
                 }
                 TxtDisplay.Text += Environment.NewLine;
@@ -177,7 +181,6 @@ namespace QuizScore
                     bigname = ntotal[r];
                     pos = r;
                 }
-
             }
 
             TxtDisplay.Text += "The highest mark total is " + bigname.ToString() + " obtained by " + student[pos] + Environment.NewLine;

@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\bin\Debug\MoreRandomNumbers.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\bin\Debug\MoreRandomNumbers.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.FrmMoreRandomNumbers.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\ProbSim\ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.exe
+C:\Temp\UdemyC#\SectionsLectures\ProbSim\ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.pdb

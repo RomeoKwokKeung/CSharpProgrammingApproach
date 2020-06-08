@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DartBoard.FrmDartBoard.resources
+obj\Release\DartBoard.Properties.Resources.resources
+obj\Release\DartBoard.csproj.GenerateResource.Cache
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DartBoard.FrmDartBoard.resources
+obj\Debug\DartBoard.Properties.Resources.resources
+obj\Debug\DartBoard.csproj.GenerateResource.Cache
+bin\Release\DartBoard.exe
+bin\Release\DartBoard.pdb
+obj\Release\DartBoard.exe
+obj\Release\DartBoard.pdb
+bin\Debug\DartBoard.exe
+bin\Debug\DartBoard.pdb
+obj\Debug\DartBoard.exe
+obj\Debug\DartBoard.pdb

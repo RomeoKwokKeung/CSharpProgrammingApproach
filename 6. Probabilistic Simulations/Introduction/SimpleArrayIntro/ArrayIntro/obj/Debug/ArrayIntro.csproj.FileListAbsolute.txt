@@ -1,7 +1,0 @@
-C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
-C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb
-C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.exe
-C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.pdb
-C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.FrmArrayIntro.resources
-C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.Properties.Resources.resources
-C:\Temp\UdemyC#\C#CourseUnits\5-Arrays\1-OneDimensional\Introduction\SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csproj.GenerateResource.Cache

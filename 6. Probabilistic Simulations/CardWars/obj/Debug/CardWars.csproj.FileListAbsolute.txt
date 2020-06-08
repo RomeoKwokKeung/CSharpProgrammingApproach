@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\bin\Debug\CardWars.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\bin\Debug\CardWars.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\SectionsLectures\ProbSim\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.exe
+C:\Temp\UdemyC#\SectionsLectures\ProbSim\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.pdb

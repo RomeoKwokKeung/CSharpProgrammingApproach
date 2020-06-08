@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\helmets\helmets\obj\Debug\helmets.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\helmets\helmets\obj\Debug\helmets.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\helmets\helmets\bin\Debug\helmets.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\helmets\helmets\bin\Debug\helmets.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\helmets\helmets\obj\Debug\helmets.FrmHelmets.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\helmets\helmets\obj\Debug\helmets.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\helmets\helmets\obj\Debug\helmets.csproj.GenerateResource.Cache

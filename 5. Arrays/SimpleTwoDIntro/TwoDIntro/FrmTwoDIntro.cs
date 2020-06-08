@@ -27,8 +27,9 @@ namespace TwoDIntro
 
             StreamReader read = new StreamReader(f);
 
+            //row 1
             for (int r = 1; r <= 3; r++)
-            {
+            {//col 1
                 for (int c = 1; c <= 4; c++)
                 {
                     stock[r, c] = Convert.ToInt32(read.ReadLine());
@@ -48,6 +49,7 @@ namespace TwoDIntro
                 {
                     TxtDisplay.Text += Convert.ToString(stock[r, c]) + "\t";
                 }
+                //go down to next line
                 TxtDisplay.Text += Environment.NewLine;
             }
 

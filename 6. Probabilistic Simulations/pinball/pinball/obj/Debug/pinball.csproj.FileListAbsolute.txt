@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\bin\Debug\pinball.exe
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\bin\Debug\pinball.pdb
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.FrmPinball.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.csproj.GenerateResource.Cache

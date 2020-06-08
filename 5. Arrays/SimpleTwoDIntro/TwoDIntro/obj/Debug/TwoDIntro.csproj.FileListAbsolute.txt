@@ -5,3 +5,12 @@ C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\SimpleTwoDIntro\
 C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.FrmTwoDIntro.resources
 C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.Properties.Resources.resources
 C:\Temp\UdemyC#\SectionsLectures\Arrays\Arrays\2-TwoDimensional\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.GenerateResource.Cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.FrmTwoDIntro.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\5. Arrays\SimpleTwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.pdb
