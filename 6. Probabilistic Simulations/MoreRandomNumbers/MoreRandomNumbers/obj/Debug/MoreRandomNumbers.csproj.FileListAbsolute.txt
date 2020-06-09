@@ -7,3 +7,12 @@ C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumber
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.csproj.GenerateResource.Cache
 C:\Temp\UdemyC#\SectionsLectures\ProbSim\ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.exe
 C:\Temp\UdemyC#\SectionsLectures\ProbSim\ProbablisticSims\1-Introduction\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\bin\Debug\MoreRandomNumbers.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\bin\Debug\MoreRandomNumbers.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.FrmMoreRandomNumbers.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MoreRandomNumbers\MoreRandomNumbers\obj\Debug\MoreRandomNumbers.pdb

@@ -5,3 +5,12 @@ C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\DartBoard\DartBo
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.FrmDartBoard.resources
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.Properties.Resources.resources
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\DartBoard\DartBoard\obj\Debug\DartBoard.csproj.GenerateResource.Cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\bin\Debug\DartBoard.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\bin\Debug\DartBoard.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\obj\Debug\DartBoard.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\obj\Debug\DartBoard.FrmDartBoard.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\obj\Debug\DartBoard.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\obj\Debug\DartBoard.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\obj\Debug\DartBoard.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\obj\Debug\DartBoard.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\DartBoard\DartBoard\obj\Debug\DartBoard.pdb

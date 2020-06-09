@@ -6,3 +6,11 @@ C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\obj\Deb
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.csproj.GenerateResource.Cache
 C:\Temp\UdemyC#\SectionsLectures\ProbSim\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.exe
 C:\Temp\UdemyC#\SectionsLectures\ProbSim\6-ProbablisticSims\2-Applications\CardWars\obj\Debug\CardWars.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\bin\Debug\CardWars.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\bin\Debug\CardWars.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\obj\Debug\CardWars.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\obj\Debug\CardWars.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\obj\Debug\CardWars.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\obj\Debug\CardWars.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\obj\Debug\CardWars.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\CardWars\obj\Debug\CardWars.pdb

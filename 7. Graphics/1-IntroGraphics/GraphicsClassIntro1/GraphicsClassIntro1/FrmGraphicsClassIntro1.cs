@@ -73,9 +73,6 @@ namespace GraphicsClassIntro1
             mypen.Dispose();
             newpen.Dispose();
             solidbrush.Dispose();
-
         }
-
-        
     }
 }

@@ -20,6 +20,7 @@ namespace MathGame
             InitializeComponent();
         }
 
+        //initialize
         private void StartGame_Click(object sender, EventArgs e)
         {
             StartGame.Visible = false;

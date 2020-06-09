@@ -1,2 +1,11 @@
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.exe
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\bin\Debug\ShootingGallery.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\bin\Debug\ShootingGallery.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.FrmShootingGallery.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.pdb

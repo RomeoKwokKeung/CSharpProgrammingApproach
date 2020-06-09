@@ -33,13 +33,14 @@ namespace MoreRandomNumbers
             this.BtnDieCounter = new System.Windows.Forms.Button();
             this.LstDisplay = new System.Windows.Forms.ListBox();
             this.BtnExit = new System.Windows.Forms.Button();
+            this.btnGamblerGame = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // BtnCointToss
             // 
-            this.BtnCointToss.Location = new System.Drawing.Point(10, 40);
+            this.BtnCointToss.Location = new System.Drawing.Point(13, 42);
             this.BtnCointToss.Name = "BtnCointToss";
-            this.BtnCointToss.Size = new System.Drawing.Size(106, 27);
+            this.BtnCointToss.Size = new System.Drawing.Size(104, 27);
             this.BtnCointToss.TabIndex = 0;
             this.BtnCointToss.Text = "Coin Toss Problem";
             this.BtnCointToss.UseVisualStyleBackColor = true;
@@ -47,7 +48,7 @@ namespace MoreRandomNumbers
             // 
             // BtnDiceSum
             // 
-            this.BtnDiceSum.Location = new System.Drawing.Point(12, 107);
+            this.BtnDiceSum.Location = new System.Drawing.Point(13, 88);
             this.BtnDiceSum.Name = "BtnDiceSum";
             this.BtnDiceSum.Size = new System.Drawing.Size(104, 29);
             this.BtnDiceSum.TabIndex = 1;
@@ -57,7 +58,7 @@ namespace MoreRandomNumbers
             // 
             // BtnDieCounter
             // 
-            this.BtnDieCounter.Location = new System.Drawing.Point(12, 171);
+            this.BtnDieCounter.Location = new System.Drawing.Point(12, 138);
             this.BtnDieCounter.Name = "BtnDieCounter";
             this.BtnDieCounter.Size = new System.Drawing.Size(104, 28);
             this.BtnDieCounter.TabIndex = 2;
@@ -83,11 +84,22 @@ namespace MoreRandomNumbers
             this.BtnExit.UseVisualStyleBackColor = true;
             this.BtnExit.Click += new System.EventHandler(this.BtnExit_Click);
             // 
+            // btnGamblerGame
+            // 
+            this.btnGamblerGame.Location = new System.Drawing.Point(13, 188);
+            this.btnGamblerGame.Name = "btnGamblerGame";
+            this.btnGamblerGame.Size = new System.Drawing.Size(104, 28);
+            this.btnGamblerGame.TabIndex = 5;
+            this.btnGamblerGame.Text = "Gambler Game";
+            this.btnGamblerGame.UseVisualStyleBackColor = true;
+            this.btnGamblerGame.Click += new System.EventHandler(this.btnGamblerGame_Click);
+            // 
             // FrmMoreRandomNumbers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(344, 262);
+            this.Controls.Add(this.btnGamblerGame);
             this.Controls.Add(this.BtnExit);
             this.Controls.Add(this.LstDisplay);
             this.Controls.Add(this.BtnDieCounter);
@@ -106,6 +118,7 @@ namespace MoreRandomNumbers
         private System.Windows.Forms.Button BtnDieCounter;
         private System.Windows.Forms.ListBox LstDisplay;
         private System.Windows.Forms.Button BtnExit;
+        private System.Windows.Forms.Button btnGamblerGame;
     }
 }
 

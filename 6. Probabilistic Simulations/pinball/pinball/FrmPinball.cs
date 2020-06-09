@@ -23,12 +23,10 @@ namespace pinball
         private void BtnPinball_Click(object sender, EventArgs e)
         {
             int [] pocketCount = new int [8];
-                       
+
             Initialize(pocketCount, 7);
             Simulate(pocketCount);
             Display(pocketCount);
-            
-
         }
 
         private void Initialize(int [] p, int u)
@@ -50,6 +48,7 @@ namespace pinball
             
                 for (int level=1;level<=6;level++)
                 {
+                    //right or left side
                     int rNumber=r.Next(1,3);
                     if (rNumber==1)
                     {

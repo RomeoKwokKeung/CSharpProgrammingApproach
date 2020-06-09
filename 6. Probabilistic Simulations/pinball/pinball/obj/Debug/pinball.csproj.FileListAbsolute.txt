@@ -5,3 +5,12 @@ C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.FrmPinball.resources
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.Properties.Resources.resources
 C:\Temp\UdemyC#\C#CourseUnits\6-ProbablisticSims\2-Applications\pinball\pinball\obj\Debug\pinball.csproj.GenerateResource.Cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\bin\Debug\pinball.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\bin\Debug\pinball.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\obj\Debug\pinball.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\obj\Debug\pinball.FrmPinball.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\obj\Debug\pinball.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\obj\Debug\pinball.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\obj\Debug\pinball.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\obj\Debug\pinball.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\pinball\pinball\obj\Debug\pinball.pdb

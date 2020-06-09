@@ -10,3 +10,12 @@ C:\Temp\UdemyC#\SectionsLectures\ProblemSolving\ProbSolvingSubPrg\1-methods\Math
 C:\Temp\UdemyC#\SectionsLectures\ProblemSolving\ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.pdb
 C:\Temp\UdemyC#\LectureDemos\ProblemSolving\ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.exe
 C:\Temp\UdemyC#\LectureDemos\ProblemSolving\ProbSolvingSubPrg\1-methods\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\obj\Debug\MathGame.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\6. Probabilistic Simulations\MathGame\MathGame\obj\Debug\MathGame.pdb
