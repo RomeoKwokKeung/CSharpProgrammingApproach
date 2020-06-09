@@ -1,2 +1,11 @@
 C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.exe
 C:\Temp\UdemyC#PracticalApplicationsPart1\SectionsLectures\9-ProgrammingChallenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\bin\Debug\FourInARow.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\bin\Debug\FourInARow.pdb
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.csprojAssemblyReference.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.FrmFourInARow.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.Properties.Resources.resources
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.csproj.GenerateResource.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.csproj.CoreCompileInputs.cache
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.exe
+C:\Users\solom\Documents\GitHub\CSharpProgrammingApproach\8. Programming Challenges\1-FourInARow\C#\FourInARow\FourInARow\obj\Debug\FourInARow.pdb
